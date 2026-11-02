@@ -1,0 +1,91 @@
+{
+    "entries": {
+        "0": {
+            "uid": 0,
+            "key": [
+                "性冷淡简述"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "医学上认为的女性性冷淡只有一种:\n\n女性性冷淡是指，性成熟的女性出现性幻想、性欲望持续性降低或者丧失的状态，通俗地讲就是性欲减退或对性生活毫无兴趣。表现为对异性或配偶缺乏性要求和性幻想，也对自身进行性行为没有欲望。\n\n这种性冷淡在民间被称为 “心理性性冷淡”即身体可以做出反应，但自身没有性趣。\n\n而民间还有一种称为 “生理性性冷淡”，但在医学上这被称为“女性性功能障碍(FSD)”。\n\n我们采用医学用语。",
+            "constant": true,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 1,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 0
+        },
+        "1": {
+            "uid": 1,
+            "key": [
+                "性冷淡",
+                "女性性冷淡"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "女性性冷淡是指，性成熟的女性出现性幻想、性欲望持续性降低或者丧失的状态，通俗地讲就是性欲减退或对性生活毫无兴趣。表现为对异性或配偶缺乏性要求和性幻想，也对自身进行性行为没有欲望。\n\n性冷淡患者可能是因为患病而感到羞愧、自责，出现很多负面情绪而引起。此时更需要家人和朋友的理解与关爱来帮助她们走出精神困境。\n\n需要注意的是，女性性冷淡的诊断除了需要满足上述表现，还需要满足症状持续时间至少约 6 个月，同时个体因为这些症状而感受到不同程度的痛苦。\n\n女性性冷淡的主要表现为：\n\n对性表达和性行为不感兴趣、缺乏性幻想和主动性需求、缺乏性冲动；\n在性交过程中缺乏或很少有兴奋感和愉悦感，甚至在性交过程中感到痛苦、焦虑、抑郁，并且可出现阴道干涩、刺痛；\n对伴侣发出的性暗示不感兴趣甚至厌恶。\n",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 2,
+            "disable": true,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 1
+        },
+        "2": {
+            "uid": 2,
+            "key": [
+                "治疗"
+            ],
+            "keysecondary": [
+                "性冷淡",
+                "FSD"
+            ],
+            "comment": "",
+            "content": "女性性冷淡常见于夫妻生活不和谐、存在性心理障碍或不良性经历、工作及生活压力较大、围绝经期或绝经后的女性人群。\n\n更多的是一种精神疾病，源于不舒服的性经历。所以在陪伴的同时能够慢慢引导女性经过舒适的性经历即可慢慢缓解治疗。\n\nFSD的治疗讲更加复杂，只能在心理上减轻FSD患者的痛苦。除了以上的治疗方法，更多的是让FSD患者感觉到开心。",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 150,
+            "position": 2,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 2
+        },
+        "3": {
+            "uid": 3,
+            "key": [
+                "性功能障碍",
+                "女性性功能障碍",
+                "female sexual dysfunction",
+                "FSD"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "女性性功能障碍(female sexual dysfunction,FSD)是指发生在女性性反应周期中，一个或几个环节的障碍(性欲减退障碍、性唤起障碍、性高潮障碍)以及性交疼痛障碍。\n\n\n1、性欲障碍(sexual desire disorders)\n\n性欲障碍分为性欲低下(hypoactive sexual desiredisorder,HSDD)和性厌恶(sexual aversion)。 性欲低下是指持续或反复地性幻想/想法和/或性交欲望缺少(或缺乏)，引起显著的痛苦或人际关系方面的困难。判断是否缺少(或缺乏)的标准由临床医师做出，同时需考虑影响性功能的因素，如年龄和个人生活的内容。性厌恶指持续或反复极度厌恶和回避所有(或几乎所有)与性伴侣之间的性器官接触，引起显著的痛苦或人际关系方面的困难。性欲障碍也与患者欲与性交对象的感情融洽与否、场所是否合适、有无疾病等身体不适等因素有关。\n\n2.性唤起障碍(female sexual arousal dis-order,FSAD)\n\n性唤起障碍指持续或反复不能达到或维持充分的性兴奋，引起显著的痛苦或人际关系方面的困难。根据主观上缺乏性兴奋、性愉悦，客观上缺乏外阴肿胀及润滑或其他躯体反应等的临床表现，分为主观性唤起障碍、生殖器性唤起障碍、混合型性唤起障碍和持续性性唤起障碍。主观性唤起几乎与血管充血无相关性，主诉缺乏主观性唤起的妇女仍有明显的生殖器充血，因此应将性唤起障碍分成这4种亚型FSAD与本身对性刺激的反应有关，也与性伴侣的前戏质量有关；同时，还与患者体内性激素水平的低下有关。\n\n\n\n\n\n3、性高潮障碍(female orgasmic disorder,FOD)\n\n性高潮障碍指在充分的性刺激和性唤起之后，持续或反复高潮延迟或缺失，引起显著的痛苦或人际关系方面的困难。FOD或许与患者早先所受到的性文化教育有关，认为女性的性高潮出现是不雅的行为，女性应该是被动的、依附男性的，而不应该有其他的非分之想。所以，有许多女性在性交时压抑自己的感受，终身未出现性高潮。\n\n\n\n\n\n\n4、性交疼痛障碍（sexual pain disorders)\n\n性交疼痛障碍分为性交疼痛（dyspareunia)、Y道痉挛(vaginismus)和非性交性疼痛(non coital sex-ual pain disorder)，性交疼痛指持续或反复地出现与性交相关的生殖器疼痛，Y道痉挛是持续或反复地阴道外1/3肌肉结构不自主的痉挛性收缩，非性交性疼痛指非插入性刺激下引起持续或反复地生殖器疼痛。性交疼痛障碍常与一些女性生殖道疾病相关，如性交疼痛常见于盆腔于宫内膜异位症、生殖道的各种炎症、盆腔淤血综合征及新婚者，Y道痉挛及非性交性疼痛也常见于一些先天生殖道发育异常女性及早年受过不良刺激者。\n",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 90,
+            "position": 2,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 3
+        }
+    }
+}

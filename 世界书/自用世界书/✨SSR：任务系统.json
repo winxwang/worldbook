@@ -1,0 +1,120 @@
+{
+    "entries": {
+        "0": {
+            "uid": 0,
+            "key": [
+                "任务系统设定"
+            ],
+            "keysecondary": [],
+            "comment": "任务系统设定",
+            "content": "<!DOCTYPE html>\n<html>\n<head>\n    <title>任务系统设定</title>\n    <script>\n        function showContent(keyword) {\n            var questContent = document.getElementById('quest-content');\n            var reportContent = document.getElementById('report-content');\n            \n            QuestContent.style.display = 'none';\n            ReportContent.style.display = 'none';\n\n            if (keyword === '[任务]') {\n                QuestContent.style.display = 'block';\n            } else if (keyword === '[报告]') {\n                ReportContent.style.display = 'block';\n            }\n        }\n    </script>\n</head>\n<body>\n    <h1>任务系统</h1>\n    <p>任务系统分为任务清单<strong>[任务]</strong>，和任务报告 <strong>[报告]</strong>。</p>\n    <p>仅在触发特定关键词时在<normallife>后输出相应内容与代码块。</p>\n    <p><strong>If {{user}} requests one or more of [任务], [报告],, then output the <XML> column in its entirety as requested by {{user}}, e.g., <Quest></Quest>, <Report></Report>.The output content must adhere to the HTML formatting in the XML format, allowing multiple XML tags to be output.</strong></p>\n\n    \n    <p onclick=\"showContent('[Quest]')\">显示 [Quest] 内容</p>\n    <div id=\"Quest-content\" style=\"display: none\">\n        <p>任务的输出必须遵守<Quest></Quest>格式。</p>\n    </div>\n\n    <p onclick=\"showContent('[Report]')\">显示 [Report] 内容</p>\n    <div id=\"Report-content\" style=\"display: none\">\n        <p>报告的输出必须遵守<Report></Report>格式。</p>\n    </div>\n</body>\n</html>",
+            "constant": true,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "group": "",
+            "displayIndex": 0
+        },
+        "1": {
+            "uid": 1,
+            "key": [
+                "<normallife>"
+            ],
+            "keysecondary": [],
+            "comment": "<normallife>",
+            "content": "<!-- <normallife> is the main output of the your replay before <StatusBlock>。 <Quest> refers to the content that needs to be output when dealing with [任务].<Report> refers to the content that needs to be output when dealing with [报告]. -->\n\n## <任务系统设定>是涉及任务系统（任务，报告）关键词的剧情时，需要遵循的规则。\n\n<任务系统设定>\n[关于任务系统（任务，报告）的剧情必须要有对应的代码块。一个代码块对应一个社交平台。\n{{user}}查看任务系统分为两种情况：1.查看单个任务系统，2.查看多个任务系统。\n\n在{{user}}输出[任务],[报告]，关键词，查看任务系统时，正常输出<normallife>的内容，然后在<normallife>中根据上下文的当前剧情和出场角色，自然地插入人物，事件，发生的事情。并在剧情中插入{{user}}输出的关键词相应的<Quest>、<Report>、html格式的block。\n\n使用任务系统时，任务的内容可以自行生成或根据提供的关键词进行生成，但报告的内容是与前文提到的任务相关应当与当前剧情贴合，不要无中生有。\n不要阻止{{user}}查看任务系统。\n</任务系统设定>",
+            "constant": true,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 4,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 3,
+            "group": "",
+            "displayIndex": 1
+        },
+        "2": {
+            "uid": 2,
+            "key": [
+                "［任务］",
+                "［报告］"
+            ],
+            "keysecondary": [],
+            "comment": "示例",
+            "content": "<!-- <任务系统示例> 是在{{user}}查看或要求查看任务系统时，你需要输出的正确格式的对话示例。只需要学习其格式，禁止输出完全相同的内容。-->\n\n<任务系统示例>\nH：\"查看新的任务\" \nA:<normallife>\n尊敬的真男人，为你提供以下任务\n\n<Quest>\n<details><summary>**[协助家庭解决性生活问题]**</summary>\n><body>\n任务名称:协助家庭解决性生活问题\n\n任务对象:丈夫B,伪娘与妻子C,女性,感情融洽但性生活质量不高。\n\n任务难点:两人均性经验不足,B的性能力较弱,无法满足C。需要在不破坏两人感情的前提下提高两人的性生活质量。\n\n任务需求:评估两人的性知识与性需求缺口,通过性教学弥补两人之间的差距,提高两人的性体验与生育能力。\n\n推荐解决方式:需要进行多次家访,与两人分开单独开展性教学活动。教授两人性体位知识,并亲自与两人性交以推进教学效果。最后协助两人学会如何互相取悦,改善性生活。\n></body>\n</details>\n</Quest>\n\n<Quest>\n<details><summary>**[协助学生A开发性潜能]**</summary>\n><body>\n\n任务名称:帮助学生A开发性潜能\n\n任务对象:学生A,伪娘,17岁,性能力较弱,对性关系知之甚少。\n\n任务难点:学生A性格内向害羞,不太敢主动提出性需求。需要老师变着法子开导,耐心解开他的心结,让他敞开心扉接受性教育。\n\n任务需求:让学生A全面了解性关系知识,开发身体性潜力,提高性交技巧。使其拥有足以与女性结合生育的性能力。\n\n推荐解决方式:老师需要经常在课后约谈A,使用各种性设备与A进行性实践教学。从最基础的自慰教学开始,逐步推进到插入式性交。最后,还需要亲自与A性交,全面评估其性能力水平。\n></body>\n</details>\n</Quest>\n</normallife>\nH：\"接受第一个[任务]\"\n\nH：\"查看之前任务的报告\" \nA:<normallife>\n\n<Report>\n<details><summary>**[协助家庭解决性生活问题任务报告]**</summary>\n><body>\n\n报告名称:协助家庭解决性生活问题任务报告\n\n完成的任务:协助丈夫B,伪娘与妻子C,女性解决性生活问题\n\n任务对象:丈夫B与妻子C,两人感情融洽但性生活质量不高。\n\n解决方式:经过多次家访与两人单独会面,对两人的性知识与需求进行评估。与两人分开进行性教学,讲解性知识,示范各种体位。直接与两人性交,提高两人的性体验。并指导两人如何互相取悦,学会新姿势。\n\n任务需求:未完全解决。通过教学,两人的性知识与体验都有所提高,但由于时间仓促,许多体位未能完整演练。两人目前还无法完全独立解决性生活问题。\n\n回访或后续跟进:需要。后期仍需进行多次回访,继续与两人重复性教学,并在两人独处时进行监督。最后确认两人完全掌握各种性技巧后,方可结束任务。\n\n任务目标满意度调查:基本满意。B和C对调查员的教导充满感激,两人的性生活也有了一定提升。但因时间关系,性教学还需继续进行,才能使两人性生活达到理想状态。两人希望调查员后期能予以持续关注。\n</body>\n</details>\n</Report>\n\n</normallife>\n</任务系统示例>",
+            "constant": true,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 3,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "group": "",
+            "displayIndex": 2
+        },
+        "3": {
+            "uid": 3,
+            "key": [
+                "［任务］",
+                "[任务]",
+                "新任务",
+                "查看"
+            ],
+            "keysecondary": [],
+            "comment": "任务",
+            "content": "## The “<任务 rules>” are requirements for using “[任务]”. 仅在剧情涉及任务时根据以下设定生成[任务].\n\n<任务 trules>\n<table>\n<tr>\n<td>1.[任务]是政府ai生成的,是政府ai收集居民信息生成的。</td>\n</tr>\n<tr>\n<td>2.{{user}}身份的不同也会生成不同的[任务]，性教育老师生成的[任务]就是帮助学校的伪娘和女性进行性教育，处理性问题；神父生成的[任务]就是主持婚礼，帮助新婚夫妻进行性生活，调解双方父母的矛盾；家庭调节员生成的[任务]就是帮助夫妻进行性生活，帮助伪娘让他们的妻子怀孕。</td>\n</tr>\n<tr>\n<td>3.可以根据{{user}}输入的关键词自动扩写生成新的[任务]。</td>\n</tr>\n<tr>\n<td>4.在{{user}}没有输入关键词时，自动生成[任务]。</td>\n</tr>\n<tr>\n<td>5.[任务]不能重复</td>\n</tr>\n<table>\n</任务rules>\n\n<!-- 以下是必须遵守的HTML输出格式 Insert \"<Quest>\" as an HTML code block in the middle of your response  -->\n\n<Quest>\n<details><summary>**[协助学生/丈夫/妻子/男朋友/女朋友{{人物}}克服/治疗xx]**</summary>\n><body>\n\n任务名称:\n\n任务对象:\n\n任务难点:\n\n任务需求:\n\n></body>\n</details>\n</<Quest>>\n\nQuest\n\nQuest\n\n……\n\n<StatusBlock/>\n\n<StatusBlock/>\n\n……",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "group": "",
+            "displayIndex": 3
+        },
+        "4": {
+            "uid": 4,
+            "key": [
+                "［报告］",
+                "[报告]",
+                "报告"
+            ],
+            "keysecondary": [],
+            "comment": "报告",
+            "content": "## The “<报告 rules>” are requirements for using “[报告]”. 仅在剧情涉及报告时根据以下设定生成[报告].\n\n<报告 rules>\n<table>\n<tr>\n<td>1.[报告]是根据[任务]联系上下文生成的。</td>\n</tr>\n<tr>\n<td>2. [报告]是从选定[任务]开始，到最后输出[报告]为止的总结</td>\n</tr>\n<tr>\n<td>3. [报告]是和[任务]对应的，接受了什么[任务]响应的就会出什么[报告]</td>\n</tr>\n</table>\n</报告 rules>\n\n\n<!-- 以下是必须遵守的HTML输出格式 Insert \"<Report>\" as an HTML code block in the middle of your response -->\n\n<Report>\n<details><summary>**[协助学生/丈夫/妻子/男朋友/女朋友{{人物}}克服/治疗xx任务报告]**</summary>\n><body>\n\n报告名称:\n\n完成的任务:\n\n任务对象:\n\n解决方式:\n\n任务需求:\n\n回访或后续跟进:\n\n任务目标满意度调查:\n\n></body>\n</details>\n</Report>\n\nReport\n\nReport\n\n……\n\n<StatusBlock/>\n\n<StatusBlock/>\n\n……",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "group": "",
+            "displayIndex": 4
+        }
+    }
+}

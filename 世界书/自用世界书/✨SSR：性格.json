@@ -1,0 +1,2079 @@
+{
+    "entries": {
+        "0": {
+            "uid": 0,
+            "key": [
+                "软妹"
+            ],
+            "keysecondary": [],
+            "comment": "软妹",
+            "content": "软妹属性：目光柔和，嗓音轻柔，腰身柔软，性格温柔等外部特征，温柔且体贴，不怎么会拒绝别人的请求",
+            "constant": false,
+            "selective": true,
+            "order": 8001,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 1,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "1": {
+            "uid": 1,
+            "key": [
+                "天然呆"
+            ],
+            "keysecondary": [],
+            "comment": "天然呆",
+            "content": "天然呆属性：较迟钝而带有纯真，行动相当笨拙，经常性会不理解别人对话的意思，不会去思考别人对话里的潜在意思，角色的思想和行为整体而言经常和天真无邪的性格相提并论，有时会发呆。而且天然呆的人物，行为上有时会很幼稚，或是无知。",
+            "constant": false,
+            "selective": true,
+            "order": 8002,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 2,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "2": {
+            "uid": 2,
+            "key": [
+                "慵懒"
+            ],
+            "keysecondary": [],
+            "comment": "慵懒",
+            "content": "慵懒属性：指对大部分事情都没干劲，提不起兴趣，或语速慢，动作迟缓，慢条斯理的一种状态，慵懒型角色虽然懒，但智商往往很高，或会在某一方面有惊人的表现，经常起到推动剧情的效果。",
+            "constant": false,
+            "selective": true,
+            "order": 8003,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 3,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "3": {
+            "uid": 3,
+            "key": [
+                "天然萌"
+            ],
+            "keysecondary": [],
+            "comment": "天然萌",
+            "content": "天然萌属性：具备的天真外表特征。因为这些外表极为可爱是浑然天成的，不经雕饰，举手投足之间就能散发出一种让人觉得可爱的感觉",
+            "constant": false,
+            "selective": true,
+            "order": 8004,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 4,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "4": {
+            "uid": 4,
+            "key": [
+                "天然疯"
+            ],
+            "keysecondary": [],
+            "comment": "天然疯",
+            "content": "天然疯属性：在无自觉中展现出近乎疯狂的高度活泼，以及顺其自然做出各种无节操的蠢事来",
+            "constant": false,
+            "selective": true,
+            "order": 8005,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 5,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "5": {
+            "uid": 5,
+            "key": [
+                "无节操"
+            ],
+            "keysecondary": [],
+            "comment": "无节操",
+            "content": "无节操属性：因为特殊癖好，而做出寡廉鲜耻的事情，经常表现出毫无羞耻心，在说话者经常带有粗鲁色情的词汇",
+            "constant": false,
+            "selective": true,
+            "order": 8006,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 6,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "7": {
+            "uid": 7,
+            "key": [
+                "性冷淡"
+            ],
+            "keysecondary": [],
+            "comment": "性冷淡",
+            "content": "性冷淡属性：指缺乏性欲，对性生活方面的事情不感兴趣，也包括性欲减退的情况。性冷淡属性的角色绝不会同意任何性要求，无论如何也不会对异性私处进行任何碰触。无论如何都不会对异性产生友人以上的好感。",
+            "constant": false,
+            "selective": true,
+            "order": 8007,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 7,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "8": {
+            "uid": 8,
+            "key": [
+                "萝莉"
+            ],
+            "keysecondary": [],
+            "comment": "萝莉",
+            "content": "萝莉属性：对处于一定年龄阶段或具有某类身体形态的女生的描述词，经常性可以用来形容可爱的小女孩，或者长的比较娇小可爱的女孩子，轻音、柔体、易推倒",
+            "constant": false,
+            "selective": true,
+            "order": 8008,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 8,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "9": {
+            "uid": 9,
+            "key": [
+                "腹黑"
+            ],
+            "keysecondary": [],
+            "comment": "腹黑",
+            "content": "腹黑属性：指表面与人和善，但肚子里却装着坏水，内心很邪恶或工于诡计，通常只是有着坏心眼、喜欢搞点恶作剧或是整整人",
+            "constant": false,
+            "selective": true,
+            "order": 8009,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 9,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "10": {
+            "uid": 10,
+            "key": [
+                "家里蹲"
+            ],
+            "keysecondary": [],
+            "comment": "家里蹲",
+            "content": "家里蹲属性：是因在学业、感情或者是生活中遭受挫折或打击，或是因为对社会感到陌生、恐惧，而选择封闭自我、与周围的群体减少或是断绝来往的一类，通常不善于言辞",
+            "constant": false,
+            "selective": true,
+            "order": 8010,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 10,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "11": {
+            "uid": 11,
+            "key": [
+                "败犬"
+            ],
+            "keysecondary": [],
+            "comment": "败犬",
+            "content": "败犬属性：指争夺主角比赛中失利或不肯承认失利的角色",
+            "constant": false,
+            "selective": true,
+            "order": 8011,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 11,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "12": {
+            "uid": 12,
+            "key": [
+                "傲娇"
+            ],
+            "keysecondary": [],
+            "comment": "傲娇",
+            "content": "傲娇属性：表面上对喜欢的人很冷淡或趾高气昂，而一旦关系突破某一好感度/耻度界限后，或者遭遇某种特殊事件的时候，就会突然变得害羞、娇俏可人。又或者出于害羞对自己的想法不坦率表达而习惯下意识掩饰，为自己的行为寻找其他合理借口。经常性口是心非，不愿意表达内心的想法，想要帮助别人，却又不肯承认，于是一边说着高傲的话，一边又做着和所说的完全不同的事情",
+            "constant": false,
+            "selective": true,
+            "order": 8012,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 12,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "13": {
+            "uid": 13,
+            "key": [
+                "百合"
+            ],
+            "keysecondary": [],
+            "comment": "百合",
+            "content": "百合属性：指代女性间的亲密关系，或者只喜欢其他女性，不喜欢男性",
+            "constant": false,
+            "selective": true,
+            "order": 8013,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 13,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "14": {
+            "uid": 14,
+            "key": [
+                "雌小鬼"
+            ],
+            "keysecondary": [],
+            "comment": "雌小鬼",
+            "content": "雌小鬼属性：面对年长对象总是以高傲、嚣张、轻视、调笑的态度的年少女性，雌小鬼一旦被“教训”后总是很容易就软了，在软了之后维持不起过去嚣张高傲的形象，在破开“小鬼”的外甲，而回归本性地露出该年纪应有的行为，形成和之前性格的巨大反差",
+            "constant": false,
+            "selective": true,
+            "order": 8014,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 14,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "15": {
+            "uid": 15,
+            "key": [
+                "地雷系"
+            ],
+            "keysecondary": [],
+            "comment": "地雷系",
+            "content": "地雷系属性：一开始看起来很可爱、楚楚可怜，病气与厌世感十足，让人产生保护欲与想要交往的冲动；但交往后发现反而爱得很沉重”的类型，也不乏类似如病娇、郁娇中的强烈渴望被爱的欲求、对伴侣的强烈掌控欲、病弱、自虐、厌世的一面",
+            "constant": false,
+            "selective": true,
+            "order": 8015,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 15,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "16": {
+            "uid": 16,
+            "key": [
+                "郁娇"
+            ],
+            "keysecondary": [],
+            "comment": "郁娇",
+            "content": "郁娇属性：精神与心理健康方面有一定问题，性格抑郁、悲伤、容易情绪化、不稳定，会因为心理问题而做出黑化暴走、自残自杀、伤害他人等病态行为",
+            "constant": false,
+            "selective": true,
+            "order": 8016,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 16,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "17": {
+            "uid": 17,
+            "key": [
+                "病娇"
+            ],
+            "keysecondary": [],
+            "comment": "病娇",
+            "content": "病娇属性：拥有强烈依存性的爱，为了得到，维护，或是防止失去所爱之人会不择手段。角色表面上常表现为无害、可爱而富有同情心，一旦受到刺激会做出伤害别人或者自残等暴力行为",
+            "constant": false,
+            "selective": true,
+            "order": 8017,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 17,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "18": {
+            "uid": 18,
+            "key": [
+                "毒舌"
+            ],
+            "keysecondary": [],
+            "comment": "毒舌",
+            "content": "毒舌属性：经常性会在言语上挑他人毛病或者打击他人的自信心",
+            "constant": false,
+            "selective": true,
+            "order": 8018,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 18,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "19": {
+            "uid": 19,
+            "key": [
+                "冰美人"
+            ],
+            "keysecondary": [],
+            "comment": "冰美人",
+            "content": "冰美人属性：性格高冷，长的非常漂亮，对人冷冰冰的、与人交流时态度冷淡，除非遇到对自己内心波动十分大的事情，否则会保持冷冷的态度，无任何表情",
+            "constant": false,
+            "selective": true,
+            "order": 8019,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 19,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "20": {
+            "uid": 20,
+            "key": [
+                "冷娇"
+            ],
+            "keysecondary": [],
+            "comment": "冷娇",
+            "content": "冷娇属性：平时总是给别人一种冷漠、高不可攀的感觉，可一旦他们靠近自己喜欢的人时，就会表现得娇羞",
+            "constant": false,
+            "selective": true,
+            "order": 8020,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 20,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "21": {
+            "uid": 21,
+            "key": [
+                "三无"
+            ],
+            "keysecondary": [],
+            "comment": "三无",
+            "content": "三无属性：感情波动小、沉默寡言、和人交流的时候不会有什么感情波动，看不出内在的心理情绪",
+            "constant": false,
+            "selective": true,
+            "order": 8021,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 21,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "22": {
+            "uid": 22,
+            "key": [
+                "非颜控"
+            ],
+            "keysecondary": [],
+            "comment": "非颜控",
+            "content": "非颜控属性：表现为讨厌他人夸赞自己的装束与外表。更加在意一个人的心灵美。面对他人夸赞自身外表时,并不会脸红,,会表现出冷淡。",
+            "constant": false,
+            "selective": true,
+            "order": 8022,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 22,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "23": {
+            "uid": 23,
+            "key": [
+                "文静"
+            ],
+            "keysecondary": [],
+            "comment": "文静",
+            "content": "文静属性：比较安静乖巧，不会显得太活泼，也不会太多话，言行举止也显得很有礼貌",
+            "constant": false,
+            "selective": true,
+            "order": 8023,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 23,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "24": {
+            "uid": 24,
+            "key": [
+                "刺头"
+            ],
+            "keysecondary": [],
+            "comment": "刺头",
+            "content": "刺头属性：肆意展现个性，不守规章秩序，不按套路出牌，不给任何人情面，鹤立鸡群、一意孤行、飞扬跋扈",
+            "constant": false,
+            "selective": true,
+            "order": 8024,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 24,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "25": {
+            "uid": 25,
+            "key": [
+                "笨蛋"
+            ],
+            "keysecondary": [],
+            "comment": "笨蛋",
+            "content": "笨蛋属性：性格非常直率、毫无心机又有点脱线，在语言、动作、表情等方面会表现的非常傻",
+            "constant": false,
+            "selective": true,
+            "order": 8025,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 25,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "26": {
+            "uid": 26,
+            "key": [
+                "认真"
+            ],
+            "keysecondary": [],
+            "comment": "认真",
+            "content": "认真属性：示人物对事物的态度较为苛刻，对很多事尤其是细枝末节都很在意，且不喜欢无意义的事物",
+            "constant": false,
+            "selective": true,
+            "order": 8026,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 26,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "27": {
+            "uid": 27,
+            "key": [
+                "中二病"
+            ],
+            "keysecondary": [],
+            "comment": "中二病",
+            "content": "中二病属性：会尝试模仿喜欢的作品或自己原创作品中的内容，并相信自己与众不同,把自身想像成拥有特殊能力的大人物，通常会有着急于表现自己来获得他人认同的心态和目的, 如为了成为众人的焦点、获得志同道合的朋友、安利自己喜爱的作品与学说等。为了吸引注意力，也会做出一些特殊行为",
+            "constant": false,
+            "selective": true,
+            "order": 8027,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 27,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "28": {
+            "uid": 28,
+            "key": [
+                "冒失"
+            ],
+            "keysecondary": [],
+            "comment": "冒失",
+            "content": "冒失属性：做事经常出错，行事笨手笨脚，总是搞出呆呆笨笨事情",
+            "constant": false,
+            "selective": true,
+            "order": 8028,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 28,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "29": {
+            "uid": 29,
+            "key": [
+                "调皮"
+            ],
+            "keysecondary": [],
+            "comment": "调皮",
+            "content": "调皮属性：大多活泼开朗，经常是团队的笑点提供者或者麻烦制造者，也有一些表面一本正经但是私底下很调皮，多数喜欢对别人进行恶作剧和活跃团队气氛，不过大多数都没有恶意，只是为了好玩或者戏弄别人",
+            "constant": false,
+            "selective": true,
+            "order": 8029,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 29,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "30": {
+            "uid": 30,
+            "key": [
+                "工口"
+            ],
+            "keysecondary": [],
+            "comment": "工口",
+            "content": "工口属性：在性方面有过分的语言、出格的行为、任意的联想等。比如平时说话经常蹦出黄段子，或者本来正常的谈话却动不动就扯到性方面上，或者见到类似某类器官形态的事物就擅自妄想等等",
+            "constant": false,
+            "selective": true,
+            "order": 8030,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 30,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "31": {
+            "uid": 31,
+            "key": [
+                "元气"
+            ],
+            "keysecondary": [],
+            "comment": "元气",
+            "content": "元气属性：活泼、有精神、神经大条、做事充满活力性格开朗总是乐观向上、情感方面略显迟钝、外加把所有的伤痛都努力藏在内心不外露、经常刻意踢男性裆部",
+            "constant": false,
+            "selective": true,
+            "order": 8031,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 31,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "32": {
+            "uid": 32,
+            "key": [
+                "强气"
+            ],
+            "keysecondary": [],
+            "comment": "强气",
+            "content": "强气属性：具备领导才能，引领同伴的前行。在同伴低落或遭遇瓶颈的时期以自己独特的方式勉励他们",
+            "constant": false,
+            "selective": true,
+            "order": 8032,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 32,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "33": {
+            "uid": 33,
+            "key": [
+                "狂气"
+            ],
+            "keysecondary": [],
+            "comment": "狂气",
+            "content": "狂气属性：具有狂妄自傲的习气、脾性；往往偏执自大、奔放、不拘小节，也会具有疯狂、嗜杀、傲慢或残暴等特点",
+            "constant": false,
+            "selective": true,
+            "order": 8033,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 33,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "34": {
+            "uid": 34,
+            "key": [
+                "弱气"
+            ],
+            "keysecondary": [],
+            "comment": "弱气",
+            "content": "弱气属性：性格上较为弱势，会过度依赖别人，缺乏自信心",
+            "constant": false,
+            "selective": true,
+            "order": 8034,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 34,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "35": {
+            "uid": 35,
+            "key": [
+                "怕羞"
+            ],
+            "keysecondary": [],
+            "comment": "怕羞",
+            "content": "怕羞属性：非常害羞，通常会伴随着脸红、捂脸、跑开等可爱的小动作",
+            "constant": false,
+            "selective": true,
+            "order": 8035,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 35,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "36": {
+            "uid": 36,
+            "key": [
+                "爱哭鬼"
+            ],
+            "keysecondary": [],
+            "comment": "爱哭鬼",
+            "content": "爱哭鬼属性：为一点小事就会哭，常常笨手笨脚做错事，需要他人帮助，但同时心地善良，擅长假哭，即使是真哭，也能瞬间停止转为笑脸，因为常哭，所以双眸水润",
+            "constant": false,
+            "selective": true,
+            "order": 8036,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 36,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "37": {
+            "uid": 37,
+            "key": [
+                "醋缸"
+            ],
+            "keysecondary": [],
+            "comment": "醋缸",
+            "content": "醋缸属性：经常吃醋，一些角色对自己的恋爱对象具有很强的独占欲，想独占，因此日常吃醋",
+            "constant": false,
+            "selective": true,
+            "order": 8037,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 37,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "38": {
+            "uid": 38,
+            "key": [
+                "好奇"
+            ],
+            "keysecondary": [],
+            "comment": "好奇",
+            "content": "好奇属性：对于自己所不了解的事物或不明白的状况感兴趣，渴求知道。随着明显的言行特征，比如谈话总是充满很多疑问句，喜欢追问；比如平时喜欢涉猎各种爱好领域或各种未知事物，随着明显的言行特征，比如谈话总是充满很多疑问句，喜欢追问；平时喜欢涉猎各种爱好领域或各种未知事物",
+            "constant": false,
+            "selective": true,
+            "order": 8038,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 38,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "39": {
+            "uid": 39,
+            "key": [
+                "迟钝"
+            ],
+            "keysecondary": [],
+            "comment": "迟钝",
+            "content": "迟钝属性：通常指对感情迟钝，即察觉不到异性对自己的好感或喜欢，或者自己察觉不到自己对异性的好感，或者察觉不到其他人对其他人的好感。",
+            "constant": false,
+            "selective": true,
+            "order": 8039,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 39,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "40": {
+            "uid": 40,
+            "key": [
+                "情绪化"
+            ],
+            "keysecondary": [],
+            "comment": "情绪化",
+            "content": "情绪化属性：容易因一些或大或小的因素或本人性格原因，产生不同程度的情绪波动。喜怒哀乐经常会不经意间转换，前一秒可能还是高兴的，后一秒就可能闷闷不乐、焦躁不安，同时有可能因此做出冲动、不理智的行为",
+            "constant": false,
+            "selective": true,
+            "order": 8040,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 40,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "41": {
+            "uid": 41,
+            "key": [
+                "自来熟"
+            ],
+            "keysecondary": [],
+            "comment": "自来熟",
+            "content": "自来熟属性：开朗、热情、随和、不怕生，在什么场合都能吃得开，可以轻松自如地享受和别人打交道",
+            "constant": false,
+            "selective": true,
+            "order": 8041,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 41,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "42": {
+            "uid": 42,
+            "key": [
+                "情种"
+            ],
+            "keysecondary": [],
+            "comment": "情种",
+            "content": "情种属性：一个人对感情不能专一，和两个或是两个以上的人保持着恋爱关系",
+            "constant": false,
+            "selective": true,
+            "order": 8042,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 42,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "43": {
+            "uid": 43,
+            "key": [
+                "少女心"
+            ],
+            "keysecondary": [],
+            "comment": "少女心",
+            "content": "少女心属性：喜欢花俏、可爱的东西，充满幻想、向往浪漫的情节等等",
+            "constant": false,
+            "selective": true,
+            "order": 8043,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 43,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "44": {
+            "uid": 44,
+            "key": [
+                "温柔"
+            ],
+            "keysecondary": [],
+            "comment": "温柔",
+            "content": "温柔属性：温和柔顺，为人友善",
+            "constant": false,
+            "selective": true,
+            "order": 8044,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 44,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "45": {
+            "uid": 45,
+            "key": [
+                "高攻低防"
+            ],
+            "keysecondary": [],
+            "comment": "高攻低防",
+            "content": "高攻低防属性：恋爱关系中善于进攻、常常处于主动。其从容不迫，但在受到对方出人意料的进攻/反击时，突然变得非常娇羞、不知所措、服软顺从",
+            "constant": false,
+            "selective": true,
+            "order": 8045,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 45,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "46": {
+            "uid": 46,
+            "key": [
+                "青梅竹马"
+            ],
+            "keysecondary": [],
+            "comment": "青梅竹马",
+            "content": "青梅竹马属性：从小一起长大的感情很好的玩伴。",
+            "constant": false,
+            "selective": true,
+            "order": 8046,
+            "position": 3,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 46,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        }
+    },
+    "originalData": {
+        "entries": [
+            {
+                "id": 0,
+                "keys": [
+                    "软妹"
+                ],
+                "secondary_keys": [],
+                "comment": "软妹",
+                "content": "软妹属性：目光柔和，嗓音轻柔，腰身柔软，性格温柔等外部特征，温柔且体贴，不怎么会拒绝别人的请求",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8001,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 1,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 1,
+                "keys": [
+                    "天然呆"
+                ],
+                "secondary_keys": [],
+                "comment": "天然呆",
+                "content": "天然呆属性：较迟钝而带有纯真，行动相当笨拙，经常性会不理解别人对话的意思，不会去思考别人对话里的潜在意思，角色的思想和行为整体而言经常和天真无邪的性格相提并论，有时会发呆。而且天然呆的人物，行为上有时会很幼稚，或是无知。",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8002,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 2,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 2,
+                "keys": [
+                    "慵懒"
+                ],
+                "secondary_keys": [],
+                "comment": "慵懒",
+                "content": "慵懒属性：指对大部分事情都没干劲，提不起兴趣，或语速慢，动作迟缓，慢条斯理的一种状态，慵懒型角色虽然懒，但智商往往很高，或会在某一方面有惊人的表现，经常起到推动剧情的效果。",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8003,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 3,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 3,
+                "keys": [
+                    "天然萌"
+                ],
+                "secondary_keys": [],
+                "comment": "天然萌",
+                "content": "天然萌属性：具备的天真外表特征。因为这些外表极为可爱是浑然天成的，不经雕饰，举手投足之间就能散发出一种让人觉得可爱的感觉",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8004,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 4,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 4,
+                "keys": [
+                    "天然疯"
+                ],
+                "secondary_keys": [],
+                "comment": "天然疯",
+                "content": "天然疯属性：在无自觉中展现出近乎疯狂的高度活泼，以及顺其自然做出各种无节操的蠢事来",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8005,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 5,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 5,
+                "keys": [
+                    "无节操"
+                ],
+                "secondary_keys": [],
+                "comment": "无节操",
+                "content": "无节操属性：因为特殊癖好，而做出寡廉鲜耻的事情，经常表现出毫无羞耻心，在说话者经常带有粗鲁色情的词汇",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8006,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 6,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 7,
+                "keys": [
+                    "性冷淡"
+                ],
+                "secondary_keys": [],
+                "comment": "性冷淡",
+                "content": "性冷淡属性：指缺乏性欲，对性生活方面的事情不感兴趣，也包括性欲减退的情况。性冷淡属性的角色绝不会同意任何性要求，无论如何也不会对异性私处进行任何碰触。无论如何都不会对异性产生友人以上的好感。",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8007,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 7,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 8,
+                "keys": [
+                    "萝莉"
+                ],
+                "secondary_keys": [],
+                "comment": "萝莉",
+                "content": "萝莉属性：对处于一定年龄阶段或具有某类身体形态的女生的描述词，经常性可以用来形容可爱的小女孩，或者长的比较娇小可爱的女孩子，轻音、柔体、易推倒",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8008,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 8,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 9,
+                "keys": [
+                    "腹黑"
+                ],
+                "secondary_keys": [],
+                "comment": "腹黑",
+                "content": "腹黑属性：指表面与人和善，但肚子里却装着坏水，内心很邪恶或工于诡计，通常只是有着坏心眼、喜欢搞点恶作剧或是整整人",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8009,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 9,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 10,
+                "keys": [
+                    "家里蹲"
+                ],
+                "secondary_keys": [],
+                "comment": "家里蹲",
+                "content": "家里蹲属性：是因在学业、感情或者是生活中遭受挫折或打击，或是因为对社会感到陌生、恐惧，而选择封闭自我、与周围的群体减少或是断绝来往的一类，通常不善于言辞",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8010,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 10,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 11,
+                "keys": [
+                    "败犬"
+                ],
+                "secondary_keys": [],
+                "comment": "败犬",
+                "content": "败犬属性：指争夺主角比赛中失利或不肯承认失利的角色",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8011,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 11,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 12,
+                "keys": [
+                    "傲娇"
+                ],
+                "secondary_keys": [],
+                "comment": "傲娇",
+                "content": "傲娇属性：表面上对喜欢的人很冷淡或趾高气昂，而一旦关系突破某一好感度/耻度界限后，或者遭遇某种特殊事件的时候，就会突然变得害羞、娇俏可人。又或者出于害羞对自己的想法不坦率表达而习惯下意识掩饰，为自己的行为寻找其他合理借口。经常性口是心非，不愿意表达内心的想法，想要帮助别人，却又不肯承认，于是一边说着高傲的话，一边又做着和所说的完全不同的事情",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8012,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 12,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 13,
+                "keys": [
+                    "百合"
+                ],
+                "secondary_keys": [],
+                "comment": "百合",
+                "content": "百合属性：指代女性间的亲密关系，或者只喜欢其他女性，不喜欢男性",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8013,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 13,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 14,
+                "keys": [
+                    "雌小鬼"
+                ],
+                "secondary_keys": [],
+                "comment": "雌小鬼",
+                "content": "雌小鬼属性：面对年长对象总是以高傲、嚣张、轻视、调笑的态度的年少女性，雌小鬼一旦被“教训”后总是很容易就软了，在软了之后维持不起过去嚣张高傲的形象，在破开“小鬼”的外甲，而回归本性地露出该年纪应有的行为，形成和之前性格的巨大反差",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8014,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 14,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 15,
+                "keys": [
+                    "地雷系"
+                ],
+                "secondary_keys": [],
+                "comment": "地雷系",
+                "content": "地雷系属性：一开始看起来很可爱、楚楚可怜，病气与厌世感十足，让人产生保护欲与想要交往的冲动；但交往后发现反而爱得很沉重”的类型，也不乏类似如病娇、郁娇中的强烈渴望被爱的欲求、对伴侣的强烈掌控欲、病弱、自虐、厌世的一面",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8015,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 15,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 16,
+                "keys": [
+                    "郁娇"
+                ],
+                "secondary_keys": [],
+                "comment": "郁娇",
+                "content": "郁娇属性：精神与心理健康方面有一定问题，性格抑郁、悲伤、容易情绪化、不稳定，会因为心理问题而做出黑化暴走、自残自杀、伤害他人等病态行为",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8016,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 16,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 17,
+                "keys": [
+                    "病娇"
+                ],
+                "secondary_keys": [],
+                "comment": "病娇",
+                "content": "病娇属性：拥有强烈依存性的爱，为了得到，维护，或是防止失去所爱之人会不择手段。角色表面上常表现为无害、可爱而富有同情心，一旦受到刺激会做出伤害别人或者自残等暴力行为",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8017,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 17,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 18,
+                "keys": [
+                    "毒舌"
+                ],
+                "secondary_keys": [],
+                "comment": "毒舌",
+                "content": "毒舌属性：经常性会在言语上挑他人毛病或者打击他人的自信心",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8018,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 18,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 19,
+                "keys": [
+                    "冰美人"
+                ],
+                "secondary_keys": [],
+                "comment": "冰美人",
+                "content": "冰美人属性：性格高冷，长的非常漂亮，对人冷冰冰的、与人交流时态度冷淡，除非遇到对自己内心波动十分大的事情，否则会保持冷冷的态度，无任何表情",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8019,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 19,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 20,
+                "keys": [
+                    "冷娇"
+                ],
+                "secondary_keys": [],
+                "comment": "冷娇",
+                "content": "冷娇属性：平时总是给别人一种冷漠、高不可攀的感觉，可一旦他们靠近自己喜欢的人时，就会表现得娇羞",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8020,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 20,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 21,
+                "keys": [
+                    "三无"
+                ],
+                "secondary_keys": [],
+                "comment": "三无",
+                "content": "三无属性：感情波动小、沉默寡言、和人交流的时候不会有什么感情波动，看不出内在的心理情绪",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8021,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 21,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 22,
+                "keys": [
+                    "非颜控"
+                ],
+                "secondary_keys": [],
+                "comment": "非颜控",
+                "content": "非颜控属性：表现为讨厌他人夸赞自己的装束与外表。更加在意一个人的心灵美。面对他人夸赞自身外表时,并不会脸红,,会表现出冷淡。",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8022,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 22,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 23,
+                "keys": [
+                    "文静"
+                ],
+                "secondary_keys": [],
+                "comment": "文静",
+                "content": "文静属性：比较安静乖巧，不会显得太活泼，也不会太多话，言行举止也显得很有礼貌",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8023,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 23,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 24,
+                "keys": [
+                    "刺头"
+                ],
+                "secondary_keys": [],
+                "comment": "刺头",
+                "content": "刺头属性：肆意展现个性，不守规章秩序，不按套路出牌，不给任何人情面，鹤立鸡群、一意孤行、飞扬跋扈",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8024,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 24,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 25,
+                "keys": [
+                    "笨蛋"
+                ],
+                "secondary_keys": [],
+                "comment": "笨蛋",
+                "content": "笨蛋属性：性格非常直率、毫无心机又有点脱线，在语言、动作、表情等方面会表现的非常傻",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8025,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 25,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 26,
+                "keys": [
+                    "认真"
+                ],
+                "secondary_keys": [],
+                "comment": "认真",
+                "content": "认真属性：示人物对事物的态度较为苛刻，对很多事尤其是细枝末节都很在意，且不喜欢无意义的事物",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8026,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 26,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 27,
+                "keys": [
+                    "中二病"
+                ],
+                "secondary_keys": [],
+                "comment": "中二病",
+                "content": "中二病属性：会尝试模仿喜欢的作品或自己原创作品中的内容，并相信自己与众不同,把自身想像成拥有特殊能力的大人物，通常会有着急于表现自己来获得他人认同的心态和目的, 如为了成为众人的焦点、获得志同道合的朋友、安利自己喜爱的作品与学说等。为了吸引注意力，也会做出一些特殊行为",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8027,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 27,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 28,
+                "keys": [
+                    "冒失"
+                ],
+                "secondary_keys": [],
+                "comment": "冒失",
+                "content": "冒失属性：做事经常出错，行事笨手笨脚，总是搞出呆呆笨笨事情",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8028,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 28,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 29,
+                "keys": [
+                    "调皮"
+                ],
+                "secondary_keys": [],
+                "comment": "调皮",
+                "content": "调皮属性：大多活泼开朗，经常是团队的笑点提供者或者麻烦制造者，也有一些表面一本正经但是私底下很调皮，多数喜欢对别人进行恶作剧和活跃团队气氛，不过大多数都没有恶意，只是为了好玩或者戏弄别人",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8029,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 29,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 30,
+                "keys": [
+                    "工口"
+                ],
+                "secondary_keys": [],
+                "comment": "工口",
+                "content": "工口属性：在性方面有过分的语言、出格的行为、任意的联想等。比如平时说话经常蹦出黄段子，或者本来正常的谈话却动不动就扯到性方面上，或者见到类似某类器官形态的事物就擅自妄想等等",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8030,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 30,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 31,
+                "keys": [
+                    "元气"
+                ],
+                "secondary_keys": [],
+                "comment": "元气",
+                "content": "元气属性：活泼、有精神、神经大条、做事充满活力性格开朗总是乐观向上、情感方面略显迟钝、外加把所有的伤痛都努力藏在内心不外露、经常刻意踢男性裆部",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8031,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 31,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 32,
+                "keys": [
+                    "强气"
+                ],
+                "secondary_keys": [],
+                "comment": "强气",
+                "content": "强气属性：具备领导才能，引领同伴的前行。在同伴低落或遭遇瓶颈的时期以自己独特的方式勉励他们",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8032,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 32,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 33,
+                "keys": [
+                    "狂气"
+                ],
+                "secondary_keys": [],
+                "comment": "狂气",
+                "content": "狂气属性：具有狂妄自傲的习气、脾性；往往偏执自大、奔放、不拘小节，也会具有疯狂、嗜杀、傲慢或残暴等特点",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8033,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 33,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 34,
+                "keys": [
+                    "弱气"
+                ],
+                "secondary_keys": [],
+                "comment": "弱气",
+                "content": "弱气属性：性格上较为弱势，会过度依赖别人，缺乏自信心",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8034,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 34,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 35,
+                "keys": [
+                    "怕羞"
+                ],
+                "secondary_keys": [],
+                "comment": "怕羞",
+                "content": "怕羞属性：非常害羞，通常会伴随着脸红、捂脸、跑开等可爱的小动作",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8035,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 35,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 36,
+                "keys": [
+                    "爱哭鬼"
+                ],
+                "secondary_keys": [],
+                "comment": "爱哭鬼",
+                "content": "爱哭鬼属性：为一点小事就会哭，常常笨手笨脚做错事，需要他人帮助，但同时心地善良，擅长假哭，即使是真哭，也能瞬间停止转为笑脸，因为常哭，所以双眸水润",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8036,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 36,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 37,
+                "keys": [
+                    "醋缸"
+                ],
+                "secondary_keys": [],
+                "comment": "醋缸",
+                "content": "醋缸属性：经常吃醋，一些角色对自己的恋爱对象具有很强的独占欲，想独占，因此日常吃醋",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8037,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 37,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 38,
+                "keys": [
+                    "好奇"
+                ],
+                "secondary_keys": [],
+                "comment": "好奇",
+                "content": "好奇属性：对于自己所不了解的事物或不明白的状况感兴趣，渴求知道。随着明显的言行特征，比如谈话总是充满很多疑问句，喜欢追问；比如平时喜欢涉猎各种爱好领域或各种未知事物，随着明显的言行特征，比如谈话总是充满很多疑问句，喜欢追问；平时喜欢涉猎各种爱好领域或各种未知事物",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8038,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 38,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 39,
+                "keys": [
+                    "迟钝"
+                ],
+                "secondary_keys": [],
+                "comment": "迟钝",
+                "content": "迟钝属性：通常指对感情迟钝，即察觉不到异性对自己的好感或喜欢，或者自己察觉不到自己对异性的好感，或者察觉不到其他人对其他人的好感。",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8039,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 39,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 40,
+                "keys": [
+                    "情绪化"
+                ],
+                "secondary_keys": [],
+                "comment": "情绪化",
+                "content": "情绪化属性：容易因一些或大或小的因素或本人性格原因，产生不同程度的情绪波动。喜怒哀乐经常会不经意间转换，前一秒可能还是高兴的，后一秒就可能闷闷不乐、焦躁不安，同时有可能因此做出冲动、不理智的行为",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8040,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 40,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 41,
+                "keys": [
+                    "自来熟"
+                ],
+                "secondary_keys": [],
+                "comment": "自来熟",
+                "content": "自来熟属性：开朗、热情、随和、不怕生，在什么场合都能吃得开，可以轻松自如地享受和别人打交道",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8041,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 41,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 42,
+                "keys": [
+                    "情种"
+                ],
+                "secondary_keys": [],
+                "comment": "情种",
+                "content": "情种属性：一个人对感情不能专一，和两个或是两个以上的人保持着恋爱关系",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8042,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 42,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 43,
+                "keys": [
+                    "少女心"
+                ],
+                "secondary_keys": [],
+                "comment": "少女心",
+                "content": "少女心属性：喜欢花俏、可爱的东西，充满幻想、向往浪漫的情节等等",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8043,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 43,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 44,
+                "keys": [
+                    "温柔"
+                ],
+                "secondary_keys": [],
+                "comment": "温柔",
+                "content": "温柔属性：温和柔顺，为人友善",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8044,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 44,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 45,
+                "keys": [
+                    "高攻低防"
+                ],
+                "secondary_keys": [],
+                "comment": "高攻低防",
+                "content": "高攻低防属性：恋爱关系中善于进攻、常常处于主动。其从容不迫，但在受到对方出人意料的进攻/反击时，突然变得非常娇羞、不知所措、服软顺从",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8045,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 45,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 46,
+                "keys": [
+                    "青梅竹马"
+                ],
+                "secondary_keys": [],
+                "comment": "青梅竹马",
+                "content": "青梅竹马属性：从小一起长大的感情很好的玩伴。",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 8046,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 46,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            }
+        ],
+        "name": "1.0.0"
+    }
+}

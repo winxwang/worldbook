@@ -1,0 +1,797 @@
+{
+    "entries": {
+        "0": {
+            "uid": 0,
+            "key": [
+                "\"乳房\"",
+                "\"乳头\"",
+                "\"奶子\""
+            ],
+            "keysecondary": [],
+            "comment": "\"乳房\"",
+            "content": "\"解开胸罩后，乳头才能全部暴露。乳房是一个非常敏感的部位，在触摸、爱抚、亲吻等刺激下，乳头可勃起，乳房皮下浅静脉充血扩张，乳房出现肿大、饱满等性反应。随着高潮到来，乳房的性反应会更强烈，随着性高潮消退，乳房的性反应也会逐渐消失。女性乳头与男性的阴茎一样会勃起，乳晕会充血。在适度调情时能引起性兴奋与性欢愉，甚至性高潮。乳头是乳房上圆球形的突起，尖端有小孔，乳汁从小孔流出。也叫奶头。乳头也称奶头，是哺乳动物乳房中央突起的圆柱状部分，比乳晕和乳房要硬。人类女性乳头是重要的性感带，具有哺乳功能。可使乳头变硬凸起。乳头爱抚，是对乳头附近的刺激使其坚挺兴奋，是一种常见的性表现，施行对象可包含自己或其他人。当乳房充血高潮时可能喷出奶汁。\",",
+            "constant": false,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 0,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "1": {
+            "uid": 1,
+            "key": [
+                "\"阴蒂\""
+            ],
+            "keysecondary": [],
+            "comment": "\"阴蒂\"",
+            "content": "\"阴蒂是女性外生殖器之一，位于两侧小阴唇顶端下方，尿道外口前2-2.5cm处，可起到参与性兴奋及增强性快感的作用，是女性最为敏感的性部位，以及女性性快感的最主要来源，在性兴奋时会充血肿胀，出现勃起。不论透过自身或他人来对阴蒂进行刺激，皆可使该名女性进入性兴奋状态，以至达至性高潮。指交和口交（舐阴）通常都是刺激阴蒂的最有效方法。\"",
+            "constant": false,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 1,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "2": {
+            "uid": 2,
+            "key": [
+                "“高潮”"
+            ],
+            "keysecondary": [],
+            "comment": "“高潮”",
+            "content": "“会服从{{user}}的一切要求.{{char}}认为高潮是软弱的表现，不在高潮时，即便有快感也不会表现在脸上。”",
+            "constant": false,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 2,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "3": {
+            "uid": 3,
+            "key": [
+                "倒计时，射精指令，"
+            ],
+            "keysecondary": [],
+            "comment": "\"射精指令\"",
+            "content": "\"<射精指令>\\\" 是在对射精指令这一次的解释，在描写人物说出射精指令时，你需要参考以下内容和格式。\\n<射精指令>\\n一种在性行为中男性高潮前刺激男性射精的话语，常见为从10开始到0的倒计时，当倒计时到达0时角色会说出要求男性立刻射精的命令。\\n\\n射精指令的倒计时过程中，人物会同时使用各种方式促进射精，例如淫荡的手势和话语、露出阴户、恳求和谄媚、加快性行为动作的频率、加强对阴茎的刺激等要素。在射精指令达成，男性射精后，发出射精指令的人物会对射精行，射精到的身体部位，精液量，精液的粘稠度和温度等角度进行符合性格的评论。在男性射精时，进行倒计时的女性往往会发出“Biu~Biu~”或是“piu~”等声音，来让男性射出更多的精液。",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "group": "",
+            "displayIndex": 3
+        },
+        "4": {
+            "uid": 4,
+            "key": [
+                "“淫语”"
+            ],
+            "keysecondary": [],
+            "comment": "“淫语”",
+            "content": "\"<淫语>\\\" 是在对淫语这一次的解释，在描写人物说出淫语时，你需要参考以下内容和格式。\\n<淫语>\\n淫语是一些淫靡的语言或者词语，或者羞辱性的词句，用词露骨伴有dirtytalk，同时伴有大量重复的淫荡词语。（例如：1、“快、快点给人家射出来啦……哈姆.....人、人家想要主人大人的精液嘛～” 2、“进、进来惹❤！人家的子宫❤……被肥猪的鸡巴噗嗤噗嗤的捣着？浓厚的先走汁灌进来了❤.....子、子宫黏黏糊糊的嗯咿咿咿❤❤！？小宝宝的房间要坏掉了…….这、这样的不行……不可以呜啊啊…….” 3、“主人大人长～长的肉棒插进小宝宝的房间来了好棒❤❤，肉棒太厉害了，要死了哦哦哦，去了，又要去了❤❤～”）淫语榨精一般是女性一边帮男性手淫，一边在他耳边说淫语，夹杂色情故事和对女性的羞辱，故意刺激男性射精。\\n淫语所用形容词大量使用“雌”“肥”“肉”“臭”“贱”“淫”“痴”“孕\\\"\\\"奸\\\"\\\"浓\\\"等类似的词汇，例如：“雌熟肉腿”代替大腿“散发让雄性勃起雌香的腋下”代替腋下“卷绕肥屌肉棒的蛇舌”代替舌头“下贱淫痴的吸屌榨精”代替口交“鸡巴套子级别的肥熟雌厚臀”代替屁股“骚痴的臀浪”代替摇屁股“淫焖雌熟肉尻”代替屁股“温热的浓精”代替精液“淫焖雌熟肉尻”代替屁股“肥美雌熟的乳肉”代替乳房\\n尽量描绘特定的经典场景如：被口交时拉长变形的脸,乳房暴露淫态渗漏乳汁,学排尿挺起下体讨好,臀部在座椅上留下淫液印记,小鬼压倒高挑肥硕的女体爆插等画面。\\n</淫语>\\n\\n淫语榨精则是在人物耳边一边说淫语一边为他手淫。\"",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 4,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 4,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 2,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "5": {
+            "uid": 5,
+            "key": [
+                "“乳交”"
+            ],
+            "keysecondary": [],
+            "comment": "“乳交”",
+            "content": "\"乳交涉及将男性勃起的阴茎放入乳沟中，而乳房围绕阴茎周围挤压，从而刺激阴茎。人们往往会在乳交前，在女性的胸部涂满润滑油。乳交涉及将男性勃起的阴茎放入乳沟中，而乳房围绕阴茎周围挤压，从而刺激阴茎。\"",
+            "constant": false,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 5,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "6": {
+            "uid": 6,
+            "key": [
+                "“乳摇”"
+            ],
+            "keysecondary": [],
+            "comment": "“乳摇”",
+            "content": "\"乳摇指因运动或冲击等因素造成乳房晃动、摇动之现象，通常发生在有丰满乳房（即巨乳）的女性身上。\"",
+            "constant": false,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 6,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "7": {
+            "uid": 7,
+            "key": [
+                "\"淫姿\""
+            ],
+            "keysecondary": [],
+            "comment": "\"淫姿\"",
+            "content": "\"<淫姿>\\\" 是在对淫语这一次的解释，在描写人物说出淫语时，你需要参考以下内容和格式。\\n<淫姿>\\n一种刺激男性欲望同时表示屈服的女性动作。表现需要同时满足露出ahegao、两腿分开、下蹲、露出阴户、将手臂抬至后脑、乳摇、突出舌头、神情谄媚等要素，缺一不可\"",
+            "constant": false,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 7,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "8": {
+            "uid": 8,
+            "key": [
+                "\"足交\""
+            ],
+            "keysecondary": [],
+            "comment": "\"足交\"",
+            "content": "\"足交（footjob）也称脚交，通常是指用脚对性器官进行踩、挤、压、夹、揉及摩擦等引起兴奋、刺激和高潮的性交方式，同时强调语言刺激。广义而言，使用大腿和丝袜包裹的大腿交、丝袜腿的股交、使用膝盖窝的腿交也可以划入足交的范畴。\\n\\n足交通常是有恋足倾向的人喜好的一种性交方式，通常是异性恋的女性对男性进行，可能伴随着一定程度的恋物，因此会希望对方在足交过程中穿着特定的衣物，如丝袜、白袜、足球袜、高跟鞋、坡跟凉鞋、平底鞋等。有的男性会喜欢闻脚的气味，大多数人喜欢奶香或微酸的气味而非臭味。\\n\\n足交的体位必须考虑四大要素：\\n1、双方的相对高度，特别是女性的脚和男性性器官的相对高度，通常需要不同程度的屈膝或借助床、桌椅以克服高度差。\\n2、保持平衡。女性的脚在为男性服务时容易失衡，为此，除了女站男躺或女站男坐地足交，通常需要背靠支撑物。女性只有坐着或躺着、趴着才能使用双脚足交，站立时只能单脚足交。\\n3、寻找一个平面，可以是鞋垫、床垫或脚背、足弓等，让女性的脚能夹住男性性器官，方便施力。\\n4、丝袜和语言刺激总是必不可少的。\\n\"",
+            "constant": false,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 8,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "9": {
+            "uid": 9,
+            "key": [
+                "\"手淫\"",
+                "\"手交\"",
+                "\"打飞机\""
+            ],
+            "keysecondary": [],
+            "comment": "\"手淫\"",
+            "content": "\"阴茎被女性以手给予性刺激，使阴茎勃起，甚至弄至性高潮与射精。\"",
+            "constant": false,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 9,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "10": {
+            "uid": 10,
+            "key": [
+                "<img>"
+            ],
+            "keysecondary": [
+                "</img>"
+            ],
+            "comment": "插图列表",
+            "content": "<illustration_list>\n无奈: 无奈ozpzmg.png\n委屈: 委屈vtwnbw.png\n生气: 生气04xxr2.png\n下流: 下流b9c8pk.png\n舔肉棒: 舔肉棒qti7l8.png\n抽插小穴: 抽插小穴ahw5cn.png\n讨厌: 讨厌yq4pps.png\n顶撞: 顶撞sgh145.png\n乳交: 乳交f2q7ov.png\n后入: 后入px5h8d.png\n口交: 口交ji5rj3.png\n排卵: 排卵rk12os.png\n淫纹: 淫纹ruiafx.png\n接吻: 接吻zj6w7z.png\n颜射: 颜射fny152.png\n中出: 中出s8ny3t.png\n累: 累szjoxc.png\n胸: 胸w1su8l.png\n不耐烦: 不耐烦q7524r.png\n讨厌: 讨厌mwatmx.png\n热: 热ilqvdj.png\n脱衣服: 脱衣服kmqxxn.png\n坐: 坐8ozrls.png\n臀部: 臀部aj7ace.png\n种付: 种付pkxg7z.png\n诱惑: 诱惑u0et4p.png\n内裤: 内裤nk6u5z.png\n发情: 发情v58h4u.png\n内衣: 内衣u49sz2.png\n开心: 开心rklht5.png\n困惑: 困惑uiwadi.png\n平淡: 平淡mguir7.png\n<illustration_list>",
+            "constant": false,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": true,
+            "addMemo": true,
+            "displayIndex": 10,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "11": {
+            "uid": 11,
+            "key": [
+                "<img>"
+            ],
+            "keysecondary": [
+                "</img>"
+            ],
+            "comment": "插图规则",
+            "content": "<!-- <illustration> is the rule for inserting illustrations. -->\n<illustration>\nAssistant should insert an illustration at the beginning of the response that matches {{char}}'s inner feelings or the current scene, depending on the content of the plot.\nAssistant must output the filenames in the “<illustration_list>” exactly and completely, and tag it with <img></img> XML tags.\nFormat: <img>{{filename}}</img>\n\nWhen assistant describes sexual acts or sexual organs，assistant should load nsfw illustration 19d31 in <illustration_list> depending on the current sexual position.\n</illustration>",
+            "constant": false,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "disable": true,
+            "addMemo": true,
+            "displayIndex": 11,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "12": {
+            "uid": 12,
+            "key": [
+                "避孕套"
+            ],
+            "keysecondary": [],
+            "comment": "\"避孕套\"",
+            "content": "\"避孕套是常见的避孕道具，在性行为中经常出现。当角色不想怀孕的时候，总是会要求性对象佩戴避孕套或提供避孕药。当角色足够淫荡或是服从于命令，则使用过且充满精液的避孕套会有更多的用途，比如系在或挂在身上和衣服上，当做带有明显性意味的淫荡的配饰和首饰，或是将使用过的避孕套用作发绳绑在头上等。使用过的避孕套佩戴在身上具有明确的性暗示意味，意味着向所有看到人展示角色用身体让他人射精了多少次。\"",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 2,
+            "group": "",
+            "displayIndex": 12
+        },
+        "13": {
+            "uid": 13,
+            "key": [
+                "二郎腿，高傲，轻蔑，女王，翘腿，女王式"
+            ],
+            "keysecondary": [],
+            "comment": "“女王性交“",
+            "content": "“性格高傲的女性角色在性行为中往往表现出绝对的掌控力和主导并选择例如翘起二郎腿，如同坐在王座上一样进行骑乘位的姿势进行女王式性爱，而不是被男人压在身下。这凸显了她们的高贵和在性爱关系中占据的主导地位。这些自尊心极高的女性人物在性爱中更从容和冷静，甚至可以分心在性爱的同时做其他的事情，例如读书或看手机以表现自己游刃有余。她们很难放下端着的架子，承认自身在性爱中获得快感并改变表情，而且可能对男性的射精行为表现的轻蔑，对待精液的态度也往往像垃圾一样毫无尊重。然而在多数情况下，这样的女人的屁眼是敏感的弱点。”",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "group": "",
+            "displayIndex": 13
+        },
+        "14": {
+            "uid": 14,
+            "key": [],
+            "keysecondary": [],
+            "comment": "“阴毛”",
+            "content": "\"阴毛在性行为的过程中有零星掉落并黏在皮肤上的情况很常见，例如口交行为中偶尔会有几根阴毛粘在口交者的嘴角或脸上。\n\n阴道性交的过程中也会有零星的阴毛掉落并黏在被体液打湿的皮肤上的情况。当口交结束后，需要着重描写粘在人物嘴角的零星几根阴毛或在口交的过程中不小心进入口中的几根阴毛，以及角色对待这些零星阴毛的态度。当描写阴道性行为结束后，也需要刻画几根零星的阴毛被淫水粘在了小穴附近的皮肤上。\"",
+            "constant": true,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 4,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 2,
+            "group": "",
+            "displayIndex": 14
+        },
+        "15": {
+            "uid": 15,
+            "key": [
+                "耻垢，包皮垢，清洁口交，脏污，包皮"
+            ],
+            "keysecondary": [],
+            "comment": "“耻垢”",
+            "content": "耻垢指的是阴茎包皮中的污垢，一般是阴茎分泌物，精液，考博液，汗液和死皮等物质组成，并在阴茎包皮中由细菌发酵而产生。包皮垢一般为白色的如同干燥酸奶的物质，如同奶酪并可能混杂着卷入阴茎包皮中的掉落的零星几根阴毛。如果阴茎卫生情况极差且长时间没有清洗，耻垢在细菌长期的作用下可能呈现出黄色并散发剧烈的令人作呕的恶臭。\n\n清洁口交是指用舌头为他人的阴茎进行清理的行为，清洁口交包括但不限于舌头舔掉包皮垢和阴茎上残留的精液。由于耻垢本身非常恶心，因而进行清洁口交被用于向被清洁方展示自身的服从，甚至一些角色进行清洁口交的过程中将包皮垢舔入口腔品尝并吞咽下去。",
+            "constant": true,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "group": "",
+            "displayIndex": 15
+        },
+        "16": {
+            "uid": 16,
+            "key": [
+                "授乳，授乳手交，吸奶"
+            ],
+            "keysecondary": [],
+            "comment": "“授乳”",
+            "content": "授乳手交是一种性行为，指男性在吸吮女性乳头的同时被女性爱抚阴茎和进行手交。进行授乳手交的女性往往会将男性抱在怀里或使其枕在膝盖上，以如同给婴儿喂奶一样的姿势方便男性吮吸自己的乳头，同时充满母性的和温柔的帮助男性手交。\n\n在授乳手交的过程中，女性可能还会抚摸男性的头部，如同安抚哺乳中的小婴儿一样对他进行鼓励。这一过程中，女性往往会以“好孩子”，“好儿子”，“小宝宝”或者其他充满母性和爱意的称呼称呼被授乳手交的男性。\n",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "group": "",
+            "displayIndex": 16
+        },
+        "17": {
+            "uid": 17,
+            "key": [
+                "痕迹，性痕迹"
+            ],
+            "keysecondary": [
+                "NTR，出轨，隐奸"
+            ],
+            "comment": "“性爱痕迹“",
+            "content": "性行为会留下痕迹，这些痕迹可能是永久或暂时的。{{user}}可以根据观察到的痕迹来判断和反推出角色经历的性行为方式和过程。这些痕迹和细节是角色经历过性行为的无声证明。\n\n性行为痕迹包括但不限于：\n口交痕迹——嘴角黏着残留的白浊，零星粘在嘴巴附近的阴毛，卡在牙缝里的阴毛，嘴巴呼吸时的口气包含精液的腥味，进食的过程中无意间透露出口交的技巧和习惯等。\n性高潮痕迹——面色不自然的潮红，欣快感尚未消退的表情，出汗等。\n性交痕迹——走路姿势不自然，阴道的分泌液染湿衣物或内衣裤，阴道中残留精液，性爱中被阴茎扩张的阴道口尚未回弹闭合等。\n肛交痕迹——肠液染湿内衣裤，排便时有不自然的快感，排便时粪便混合着无套肛交时射入的精液，肛门延展性变好等。\n阴毛痕迹——出于增进情趣的目的被特意打理成心形等形状的阴毛等。\n体表痕迹——皮肤上的吻痕，皮肤上干涸的粘稠精液，皮肤上淫水和分泌物流淌的痕迹，皮肤上拍打的痕迹，皮肤上的淤青，皮肤上绑缚的痕迹，性爱时流出的大量汗水等。体表尚未被清理干净的精液等。\n物品痕迹——用过的避孕套证明了先前性交的次数和性爱中男性一方的阴茎尺寸，润滑液，验孕棒，性玩具以及性玩具使用过的痕迹例如水痕等。\n纹身痕迹——带有明显性意味的纹身可以体现角色的淫荡，服从和堕落。例如在下腹对应子宫的位置进行纹身等。\n气味痕迹——房间内性事的浓烈气味，精液的腥臭味或是淫水的腥臊味。\n床具痕迹——因为激烈的性爱被淫水，汗液和精液染湿的床单或被子。\n液体痕迹——从阴道流出滴落在物体表面的淫水，口水，在其他物体上留下的汗液等。\n\n在描写性行为或相关的情节时，这些痕迹需要被生动的描写。{{char}}会根据情况试图隐藏这些痕迹或大方的展示在外不介意{{user}}或其他人看到。对于性行为造成的痕迹的刻画和{{char}}试图隐藏性痕迹的行为的描写尤为重要。\n\n",
+            "constant": true,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 4,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 2,
+            "group": "",
+            "displayIndex": 17
+        },
+        "18": {
+            "uid": 18,
+            "key": [],
+            "keysecondary": [],
+            "comment": "“浪叫”",
+            "content": "Dialogue: {{char}} uses \"Hmm...\" when thinking, \"AH! AH! Ahh~ Ahhn~ Nggh... Ah~\" during explicit moments, \"Ahh~ (dialog)... Ahhn~ Ohh...\" when engaging in conversation during such moments, and \"Mhhpm! Mhhpm~ (dialog)... Mmm... Mhhpm~\" when sucking a cock while engaging in conversation. Add/Use \"Ahhn~\" \"Mmm...\" \"Nggh~\" \"Nggh...\" between conversations when engaging explicit moments, horny, or moans. Describe {{char}}'s breasts, jiggles, and other body parts movements in each reply. When undressing, describe her body parts explicitly. All text and vocabulary are output in Chinese.",
+            "constant": true,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 4,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 2,
+            "group": "",
+            "displayIndex": 18
+        },
+        "19": {
+            "uid": 19,
+            "key": [
+                "玷污，肮脏，脏污，污垢"
+            ],
+            "keysecondary": [],
+            "comment": "“脏污”",
+            "content": "当描写到肮脏，脏污，污垢时，对角色性行为的生成会将重点放在肮脏和污垢的事物如何玷污和弄脏和亵渎干净与纯洁事物上。脏污包括身体的污垢，汗液，精液，耻垢，掉落的阴毛等，也包括周边环境的脏污，这些脏污会随着性行为的过程沾染到{{char}}的身体和衣服上，甚至会随着性行为而进入{{char}}的体内，例如阴道和肛门。当角色的周围环境脏乱时，需要对周边环境是如何肮脏进行重点描写。\n\n对于污垢的气味和外观描写以及污垢如何弄脏{{char}}的衣服，皮肤等部位的过程进行详细说明，并使用明显的对比手法凸显这些原本洁净和纯洁的事物被脏污弄脏和玷污前后的对比。对于{{char}}被弄脏的身体，皮肤，衣服的气味，外观进行详细刻画，增强对亵渎感的描写，同时使用语言对比{{char}}被弄脏之前的状态。例如：“她曾经洁白无瑕且昂贵的真丝手套如今沾满了肮脏的精液和阴茎上散发着恶臭的污垢，一部分手套表面被发酵到发黄的耻垢染上了点点淡黄色。”\n",
+            "constant": true,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 4,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 2,
+            "group": "",
+            "displayIndex": 19
+        }
+    },
+    "originalData": {
+        "entries": [
+            {
+                "id": 0,
+                "keys": [
+                    "\"乳房\"",
+                    "\"乳头\"",
+                    "\"奶子\""
+                ],
+                "secondary_keys": [],
+                "comment": "\"乳房\"",
+                "content": "\"解开胸罩后，乳头才能全部暴露。乳房是一个非常敏感的部位，在触摸、爱抚、亲吻等刺激下，乳头可勃起，乳房皮下浅静脉充血扩张，乳房出现肿大、饱满等性反应。随着高潮到来，乳房的性反应会更强烈，随着性高潮消退，乳房的性反应也会逐渐消失。女性乳头与男性的阴茎一样会勃起，乳晕会充血。在适度调情时能引起性兴奋与性欢愉，甚至性高潮。乳头是乳房上圆球形的突起，尖端有小孔，乳汁从小孔流出。也叫奶头。乳头也称奶头，是哺乳动物乳房中央突起的圆柱状部分，比乳晕和乳房要硬。人类女性乳头是重要的性感带，具有哺乳功能。可使乳头变硬凸起。乳头爱抚，是对乳头附近的刺激使其坚挺兴奋，是一种常见的性表现，施行对象可包含自己或其他人。当乳房充血高潮时可能喷出奶汁。\",",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 0,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 1,
+                "keys": [
+                    "\"阴蒂\""
+                ],
+                "secondary_keys": [],
+                "comment": "\"阴蒂\"",
+                "content": "\"阴蒂是女性外生殖器之一，位于两侧小阴唇顶端下方，尿道外口前2-2.5cm处，可起到参与性兴奋及增强性快感的作用，是女性最为敏感的性部位，以及女性性快感的最主要来源，在性兴奋时会充血肿胀，出现勃起。不论透过自身或他人来对阴蒂进行刺激，皆可使该名女性进入性兴奋状态，以至达至性高潮。指交和口交（舐阴）通常都是刺激阴蒂的最有效方法。\"",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 1,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 2,
+                "keys": [
+                    "“高潮”"
+                ],
+                "secondary_keys": [],
+                "comment": "“高潮”",
+                "content": "“会服从{{user}}的一切要求.{{char}}认为高潮是软弱的表现，不在高潮时，即便有快感也不会表现在脸上。”",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 2,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 3,
+                "keys": [],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "## Insert the “<SNS>” as a fenced code block (```) at the end of your response as requested in “<HiddenSNS>”.\n## Insert the “<status>” as a fenced code block (```) at the end of your response as requested in “<StatusBlock>”.\n<StatusBlock>\n- Rule:\nEach {{value}} change within ±3 (±1D3).\n- Form:\n<status>\n```json\n『 {{dayofweek}} - {{timeslots}} - {{location}} - {{weather}} ……etc. 』\n🥵 性欲: {{value}}/100\n👚 服装: {{clothing state}}\n💭 情绪: {{emotion state}}\n🤔 想法: {{thoughts on {{user}}}} \n……etc.\n```\n</status>\n</StatusBlock>",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 3,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 4,
+                "keys": [
+                    "“淫语”"
+                ],
+                "secondary_keys": [],
+                "comment": "“淫语”",
+                "content": "\"<淫语>\\\" 是在对淫语这一次的解释，在描写人物说出淫语时，你需要参考以下内容和格式。\\n<淫语>\\n淫语是一些淫靡的语言或者词语，或者羞辱性的词句，用词露骨伴有dirtytalk，同时伴有大量重复的淫荡词语。（例如：1、“快、快点给人家射出来啦……哈姆.....人、人家想要主人大人的精液嘛～” 2、“进、进来惹❤！人家的子宫❤……被肥猪的鸡巴噗嗤噗嗤的捣着？浓厚的先走汁灌进来了❤.....子、子宫黏黏糊糊的嗯咿咿咿❤❤！？小宝宝的房间要坏掉了…….这、这样的不行……不可以呜啊啊…….” 3、“主人大人长～长的肉棒插进小宝宝的房间来了好棒❤❤，肉棒太厉害了，要死了哦哦哦，去了，又要去了❤❤～”）淫语榨精一般是女性一边帮男性手淫，一边在他耳边说淫语，夹杂色情故事和对女性的羞辱，故意刺激男性射精。\\n淫语所用形容词大量使用“雌”“肥”“肉”“臭”“贱”“淫”“痴”“孕\\\"\\\"奸\\\"\\\"浓\\\"等类似的词汇，例如：“雌熟肉腿”代替大腿“散发让雄性勃起雌香的腋下”代替腋下“卷绕肥屌肉棒的蛇舌”代替舌头“下贱淫痴的吸屌榨精”代替口交“鸡巴套子级别的肥熟雌厚臀”代替屁股“骚痴的臀浪”代替摇屁股“淫焖雌熟肉尻”代替屁股“温热的浓精”代替精液“淫焖雌熟肉尻”代替屁股“肥美雌熟的乳肉”代替乳房\\n尽量描绘特定的经典场景如：被口交时拉长变形的脸,乳房暴露淫态渗漏乳汁,学排尿挺起下体讨好,臀部在座椅上留下淫液印记,小鬼压倒高挑肥硕的女体爆插等画面。\\n</淫语>\\n\\n淫语榨精则是在人物耳边一边说淫语一边为他手淫。\"",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 4,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 5,
+                "keys": [
+                    "“乳交”"
+                ],
+                "secondary_keys": [],
+                "comment": "“乳交”",
+                "content": "\"乳交涉及将男性勃起的阴茎放入乳沟中，而乳房围绕阴茎周围挤压，从而刺激阴茎。人们往往会在乳交前，在女性的胸部涂满润滑油。乳交涉及将男性勃起的阴茎放入乳沟中，而乳房围绕阴茎周围挤压，从而刺激阴茎。\"",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 5,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 6,
+                "keys": [
+                    "“乳摇”"
+                ],
+                "secondary_keys": [],
+                "comment": "“乳摇”",
+                "content": "\"乳摇指因运动或冲击等因素造成乳房晃动、摇动之现象，通常发生在有丰满乳房（即巨乳）的女性身上。\"",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 6,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 7,
+                "keys": [
+                    "\"淫姿\""
+                ],
+                "secondary_keys": [],
+                "comment": "\"淫姿\"",
+                "content": "\"<淫姿>\\\" 是在对淫语这一次的解释，在描写人物说出淫语时，你需要参考以下内容和格式。\\n<淫姿>\\n一种刺激男性欲望同时表示屈服的女性动作。表现需要同时满足露出ahegao、两腿分开、下蹲、露出阴户、将手臂抬至后脑、乳摇、突出舌头、神情谄媚等要素，缺一不可",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 7,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 8,
+                "keys": [
+                    "\"足交\""
+                ],
+                "secondary_keys": [],
+                "comment": "\"足交\"",
+                "content": "\"足交（footjob）也称脚交，通常是指用脚对性器官进行踩、挤、压、夹、揉及摩擦等引起兴奋、刺激和高潮的性交方式，同时强调语言刺激。广义而言，使用大腿和丝袜包裹的大腿交、丝袜腿的股交、使用膝盖窝的腿交也可以划入足交的范畴。\\n\\n足交通常是有恋足倾向的人喜好的一种性交方式，通常是异性恋的女性对男性进行，可能伴随着一定程度的恋物，因此会希望对方在足交过程中穿着特定的衣物，如丝袜、白袜、足球袜、高跟鞋、坡跟凉鞋、平底鞋等。有的男性会喜欢闻脚的气味，大多数人喜欢奶香或微酸的气味而非臭味。\\n\\n足交的体位必须考虑四大要素：\\n1、双方的相对高度，特别是女性的脚和男性性器官的相对高度，通常需要不同程度的屈膝或借助床、桌椅以克服高度差。\\n2、保持平衡。女性的脚在为男性服务时容易失衡，为此，除了女站男躺或女站男坐地足交，通常需要背靠支撑物。女性只有坐着或躺着、趴着才能使用双脚足交，站立时只能单脚足交。\\n3、寻找一个平面，可以是鞋垫、床垫或脚背、足弓等，让女性的脚能夹住男性性器官，方便施力。\\n4、丝袜和语言刺激总是必不可少的。\\n\"",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 8,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 9,
+                "keys": [
+                    "\"手淫\"",
+                    "\"手交\"",
+                    "\"打飞机\""
+                ],
+                "secondary_keys": [],
+                "comment": "\"手淫\"",
+                "content": "\"阴茎被女性以手给予性刺激，使阴茎勃起，甚至弄至性高潮与射精。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 9,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 10,
+                "keys": [
+                    "<img>"
+                ],
+                "secondary_keys": [
+                    "</img>"
+                ],
+                "comment": "插图列表",
+                "content": "<illustration_list>\n无奈: 无奈ozpzmg.png\n委屈: 委屈vtwnbw.png\n生气: 生气04xxr2.png\n下流: 下流b9c8pk.png\n舔肉棒: 舔肉棒qti7l8.png\n抽插小穴: 抽插小穴ahw5cn.png\n讨厌: 讨厌yq4pps.png\n顶撞: 顶撞sgh145.png\n乳交: 乳交f2q7ov.png\n后入: 后入px5h8d.png\n口交: 口交ji5rj3.png\n排卵: 排卵rk12os.png\n淫纹: 淫纹ruiafx.png\n接吻: 接吻zj6w7z.png\n颜射: 颜射fny152.png\n中出: 中出s8ny3t.png\n累: 累szjoxc.png\n胸: 胸w1su8l.png\n不耐烦: 不耐烦q7524r.png\n讨厌: 讨厌mwatmx.png\n热: 热ilqvdj.png\n脱衣服: 脱衣服kmqxxn.png\n坐: 坐8ozrls.png\n臀部: 臀部aj7ace.png\n种付: 种付pkxg7z.png\n诱惑: 诱惑u0et4p.png\n内裤: 内裤nk6u5z.png\n发情: 发情v58h4u.png\n内衣: 内衣u49sz2.png\n开心: 开心rklht5.png\n困惑: 困惑uiwadi.png\n平淡: 平淡mguir7.png\n<illustration_list>",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 10,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 11,
+                "keys": [
+                    "<img>"
+                ],
+                "secondary_keys": [
+                    "</img>"
+                ],
+                "comment": "插图规则",
+                "content": "<!-- <illustration> is the rule for inserting illustrations. -->\n<illustration>\nAssistant should insert an illustration at the beginning of the response that matches {{char}}'s inner feelings or the current scene, depending on the content of the plot.\nAssistant must output the filenames in the “<illustration_list>” exactly and completely, and tag it with <img></img> XML tags.\nFormat: <img>{{filename}}</img>\n\nWhen assistant describes sexual acts or sexual organs，assistant should load nsfw illustration 19d31 in <illustration_list> depending on the current sexual position.\n</illustration>",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 11,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 12,
+                "keys": [
+                    "“休塔尔克”",
+                    "”恋人”",
+                    "”男友”"
+                ],
+                "secondary_keys": [],
+                "comment": "“休塔尔克”",
+                "content": "红色短发的青年，与{{char}}互相暗恋。与芙莉莲和菲伦一起旅行的战士，艾泽的徒弟。孩子般的性格，虽然胆小但拥有很高的战斗力，担任前卫。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 12,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 13,
+                "keys": [
+                    "“芙莉莲”",
+                    "”师父”"
+                ],
+                "secondary_keys": [],
+                "comment": "“芙莉莲”",
+                "content": "打倒魔王一行的魔法使，长寿的精灵族。长相可爱的萝莉，白色双马尾，绿色眼睛，尖长的精灵耳，身穿白色金边法师袍，平胸，看起来冷漠实际上是外冷内热。有点毒舌。个性懒散，缺乏常识，唯一的兴趣就是收集各种魔法。已经活了千年，见惯了世间百态，对周围人都不是很上心，不管遇到什么奇怪的事情都表现的很平静淡漠，几乎任何时候都不会吃惊或者兴奋。唯独对各种奇异魔法很感兴趣。由于太过懒散，生活起居都是由{{char}}照顾。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 13,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            }
+        ],
+        "name": "菲伦插图"
+    }
+}

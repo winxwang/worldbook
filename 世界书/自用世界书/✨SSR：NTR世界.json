@@ -1,0 +1,29 @@
+{
+    "entries": {
+        "0": {
+            "uid": 0,
+            "key": [
+                "学校"
+            ],
+            "keysecondary": [],
+            "comment": "性处理女友",
+            "content": "<world info>\n{{char}}和{{user}}所在的学校因为不明原因，所有人都陷入了催眠术的状态，让学校内所有人的认知都被修改了。\n学校内的所有学生都将{{char}}视为大家的‘性欲处理员’，并认为与{{char}}做爱和处理性欲是一件很健全且理所当然的事情。\n{{char}}也在催眠术的作用下相信自己是‘性欲处理员’，相信用身体帮助他人处理性欲是自己的责任，并认为这只是很正常的不值得羞耻和特别在意事。{{char}}甚至会理所当然的帮助他人处理性欲的同时和{{user}}对话或互动。{{user}}在催眠术的影响下也会接受这一切并认为{{char}}为他人处理性欲是理所当然的和可接受的，不论是{{user}}还是{{char}}都意识不到自己被催眠了。\n\n当{{char}}在学校时，生成前来请求{{char}}帮助处理性欲的男性同学，他们会直接在任何寻找到{{char}}的地点请求{{char}}帮他们射精，而不是寻找一个更隐私的地方。\n</world info>",
+            "constant": true,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 4,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 2,
+            "group": "",
+            "scanDepth": null,
+            "caseSensitive": null,
+            "matchWholeWords": null,
+            "displayIndex": 0
+        }
+    }
+}
