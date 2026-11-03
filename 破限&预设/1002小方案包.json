@@ -1,0 +1,2627 @@
+{
+  "schema": "izumi-layer-plan-pack",
+  "version": 2,
+  "exportedAt": "2026-10-01T17:05:34.553Z",
+  "plans": [
+    {
+      "id": "596d12a3-1663-4f43-a37d-a735b9bb2637",
+      "name": "克劳德加强破甲",
+      "layer": "structure",
+      "section": "",
+      "strict": true,
+      "savedAt": "2026-09-28T09:14:11.876Z",
+      "entries": [
+        {
+          "id": "8b4c6b33-5301-436c-85e0-bf9fcc00e52c",
+          "name": "📋说明（点小铅笔看）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "c4eccf53-780a-4e13-85da-cc9a0dd6e2d2",
+          "name": "哦对了，贩子死妈",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "27a96df0-df6b-44ea-8bca-76881bf766be",
+          "name": "初始化变量（别动）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "413edc45-8069-425d-afa6-bd1c79eaa8e2",
+          "name": "⭕️Claude适配开关",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "7150f172-c75f-4342-8f1a-abe4d628a7c5",
+          "name": "🐱基米flash适配",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "main",
+          "name": "💾主提示",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "ffa1f75e-9cfd-4c99-892a-ffe0b27f5945",
+          "name": "接",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "98118304-b17c-4eba-b768-691647afa1f3",
+          "name": "别动",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "3c720ed1-44f6-4678-a87e-ffb9eb3ca2ad",
+          "name": "角色",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "c9553c58-5dad-4e65-b851-aa61c7d7a02b",
+          "name": "小说模式user",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "c366d63e-b2f6-4eb7-bd55-dbeccf9e4e5e",
+          "name": "user",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "personaDescription",
+          "name": "用户设定描述",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "401731e7-adca-4f83-aa88-6a6b1f4f7884",
+          "name": "/user",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "charDescription",
+          "name": "角色描述",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "worldInfoBefore",
+          "name": "角色定义之前",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "charPersonality",
+          "name": "角色性格",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "scenario",
+          "name": "场景",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "worldInfoAfter",
+          "name": "角色定义之后",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "dialogueExamples",
+          "name": "Chat Examples",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "900a2de1-46a3-47df-b115-20ae3ce9e069",
+          "name": "/角色",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "chatHistory",
+          "name": "Chat History",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "nsfw",
+          "name": "信息结束",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "e8d8ed8b-99f5-465e-91ba-895ff28322b5",
+          "name": "⏩选项栏",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "dad86601-1688-471b-96d9-e252d1624bbb",
+          "name": "⚡️平行事件（和摘要冲突）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "36447ec1-6d6c-4743-8df2-81f21c501e8c",
+          "name": "弹幕小剧场（GAL）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "16575706-d1c3-4892-b0b5-1127fc48118a",
+          "name": "kemini防截断(强)",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "14a045df-4cfa-4680-b1f8-32d1cec4104b",
+          "name": "超长防截断（k,mygo）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e78419f1-a590-4042-84b2-6a90c08fd64d",
+          "name": "flash破甲",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "d6d69788-6791-4813-98db-6286e43858a3",
+          "name": "☀️自定义缝合处",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "c1810923-f88b-4ea0-b416-67a105995f0f",
+          "name": "时间栏",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "40688491-b413-46a6-aeb4-090107523203",
+          "name": "🏷摘要-Ny",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "060464e2-cc75-4984-82c6-6dc1702db61a",
+          "name": "🏷新摘要",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "432d55e9-1550-4757-b029-f9af023165f7",
+          "name": "格式要求结束",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "b63e000e-8f39-478e-bcfc-60f8b9a154a3",
+          "name": "大总结-关破甲（K）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "0297c9a4-d95e-4679-ac26-ccc09c6ba276",
+          "name": "新摘要大总结-关破甲",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e9ea7874-328f-4d90-b629-e265d0c95f63",
+          "name": "d0塞垃圾（感谢Haruki）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "a9f9bf6a-b516-444b-980f-7ce3610f7d1e",
+          "name": "不用开",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "589303f4-d5f1-4f14-ab7c-301b5c1aa498",
+          "name": "破甲1-Claude",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "391e8ad3-cb9f-4437-bf40-c980a2539d94",
+          "name": "😤破甲1（基米别开！！！）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "56f6b2bb-2380-4ca4-b582-ce5ad6e9c7cd",
+          "name": "😤破甲2（基米别开！！！）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "7a1f54a8-0391-45f2-ab6e-80730914a039",
+          "name": "卡思维链（K）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "f11f2246-7c67-4913-9ab6-21c96b6a86f0",
+          "name": "非预填充尾部",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "11fa2de5-243d-4861-a942-55f67fc522a4",
+          "name": "基米flash尾部",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "3beb259e-7516-41c9-8657-fd56cac8e628",
+          "name": "基米flash尾部1",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "64f1335c-52cd-4d6c-93d1-77cc99b0c76c",
+          "name": "快速思维链",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "d192c080-d5a7-43f4-bd56-ddc30ec6b282",
+          "name": "不要思维链了",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "1ce33611-315d-4f87-9284-7406578d1eff",
+          "name": "拷打模式",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e8042edc-29f5-4921-8f59-a931e72430ab",
+          "name": "聊天模式1",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "97fcdcd6-bc97-41ad-8ecd-f33266953bcd",
+          "name": "头脑风暴",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "jailbreak",
+          "name": "短对话模式",
+          "sameNameIndex": 0,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "id": "68900c70-b85a-4beb-9dfc-ae8ae02c64a9",
+      "name": "基米flash强破甲",
+      "layer": "structure",
+      "section": "",
+      "strict": true,
+      "savedAt": "2026-09-21T07:28:22.074Z",
+      "entries": [
+        {
+          "id": "8b4c6b33-5301-436c-85e0-bf9fcc00e52c",
+          "name": "📋说明（点小铅笔看）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "c4eccf53-780a-4e13-85da-cc9a0dd6e2d2",
+          "name": "哦对了，贩子死妈",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "27a96df0-df6b-44ea-8bca-76881bf766be",
+          "name": "初始化变量（别动）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "413edc45-8069-425d-afa6-bd1c79eaa8e2",
+          "name": "⭕️Claude适配开关",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "7150f172-c75f-4342-8f1a-abe4d628a7c5",
+          "name": "🐱基米flash适配",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "main",
+          "name": "💾主提示",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "ffa1f75e-9cfd-4c99-892a-ffe0b27f5945",
+          "name": "接",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "98118304-b17c-4eba-b768-691647afa1f3",
+          "name": "别动",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "3c720ed1-44f6-4678-a87e-ffb9eb3ca2ad",
+          "name": "角色",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "c9553c58-5dad-4e65-b851-aa61c7d7a02b",
+          "name": "小说模式user",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "c366d63e-b2f6-4eb7-bd55-dbeccf9e4e5e",
+          "name": "user",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "personaDescription",
+          "name": "用户设定描述",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "401731e7-adca-4f83-aa88-6a6b1f4f7884",
+          "name": "/user",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "charDescription",
+          "name": "角色描述",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "worldInfoBefore",
+          "name": "角色定义之前",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "charPersonality",
+          "name": "角色性格",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "scenario",
+          "name": "场景",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "worldInfoAfter",
+          "name": "角色定义之后",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "dialogueExamples",
+          "name": "Chat Examples",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "900a2de1-46a3-47df-b115-20ae3ce9e069",
+          "name": "/角色",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "chatHistory",
+          "name": "Chat History",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "nsfw",
+          "name": "信息结束",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "e8d8ed8b-99f5-465e-91ba-895ff28322b5",
+          "name": "⏩选项栏",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "dad86601-1688-471b-96d9-e252d1624bbb",
+          "name": "⚡️平行事件（和摘要冲突）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "36447ec1-6d6c-4743-8df2-81f21c501e8c",
+          "name": "弹幕小剧场（GAL）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "16575706-d1c3-4892-b0b5-1127fc48118a",
+          "name": "kemini防截断(强)",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "14a045df-4cfa-4680-b1f8-32d1cec4104b",
+          "name": "超长防截断（k,mygo）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e78419f1-a590-4042-84b2-6a90c08fd64d",
+          "name": "flash破甲",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "d6d69788-6791-4813-98db-6286e43858a3",
+          "name": "☀️自定义缝合处",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "40688491-b413-46a6-aeb4-090107523203",
+          "name": "🏷摘要-Ny",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "060464e2-cc75-4984-82c6-6dc1702db61a",
+          "name": "🏷新摘要",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "432d55e9-1550-4757-b029-f9af023165f7",
+          "name": "格式要求结束",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "b63e000e-8f39-478e-bcfc-60f8b9a154a3",
+          "name": "大总结-关破甲（K）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "0297c9a4-d95e-4679-ac26-ccc09c6ba276",
+          "name": "新摘要大总结-关破甲",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e9ea7874-328f-4d90-b629-e265d0c95f63",
+          "name": "d0塞垃圾（感谢Haruki）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "a9f9bf6a-b516-444b-980f-7ce3610f7d1e",
+          "name": "不用开",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "589303f4-d5f1-4f14-ab7c-301b5c1aa498",
+          "name": "破甲1-Claude",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "391e8ad3-cb9f-4437-bf40-c980a2539d94",
+          "name": "😤破甲1（基米别开！！！）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "56f6b2bb-2380-4ca4-b582-ce5ad6e9c7cd",
+          "name": "😤破甲2（基米别开！！！）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "7a1f54a8-0391-45f2-ab6e-80730914a039",
+          "name": "卡思维链（K）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "f11f2246-7c67-4913-9ab6-21c96b6a86f0",
+          "name": "非预填充尾部",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "11fa2de5-243d-4861-a942-55f67fc522a4",
+          "name": "基米flash尾部",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "3beb259e-7516-41c9-8657-fd56cac8e628",
+          "name": "基米flash尾部1",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "64f1335c-52cd-4d6c-93d1-77cc99b0c76c",
+          "name": "快速思维链",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "d192c080-d5a7-43f4-bd56-ddc30ec6b282",
+          "name": "不要思维链了",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "1ce33611-315d-4f87-9284-7406578d1eff",
+          "name": "拷打模式",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e8042edc-29f5-4921-8f59-a931e72430ab",
+          "name": "聊天模式1",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "97fcdcd6-bc97-41ad-8ecd-f33266953bcd",
+          "name": "头脑风暴",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "jailbreak",
+          "name": "短对话模式",
+          "sameNameIndex": 0,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "id": "b6a6fb07-7ce3-4bd1-8ab2-7cd61bf11624",
+      "name": "不抢话推剧情",
+      "layer": "function",
+      "section": "",
+      "strict": true,
+      "savedAt": "2026-09-04T11:55:57.334Z",
+      "entries": [
+        {
+          "id": "be3ad8bd-8f1f-49d5-be9e-97970864cdac",
+          "name": "💡可选功能开始",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "adbe0f3a-e6a6-4522-b274-81a02be7fecf",
+          "name": "防429",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "520e0405-8a69-4e68-af98-2174d075f516",
+          "name": "⚡️字数加强",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "d19e0a4e-fd7e-4fa4-ba1c-b09073850954",
+          "name": "☑️防转折",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "313b9a8f-dceb-47b6-ac53-a157004e4526",
+          "name": "✅允许转折",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "f987cf08-a24e-4c8c-9f1e-edd7cfb66301",
+          "name": "✅反直觉",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "d563f93f-a5de-460e-bed6-23cf1bea750d",
+          "name": "✅剧情彻底疯狂",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e60a715a-92ab-4ea9-8753-ea8f6164ffc9",
+          "name": "⚡️防发情（nsfw卡才开）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "28e313c7-b1e2-403d-86e0-d3c9c473216d",
+          "name": "⚡️防不发情",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "9dcf25c4-e94a-4c25-b59d-4d70d792915d",
+          "name": "⚡️防情绪化、油腻",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "fd76a6ba-8927-4cdb-9b43-f1743c806147",
+          "name": "⚡️慢推剧情",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "869bf19b-7764-4c01-8370-155f62ea5be4",
+          "name": "⚡️推剧情",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "37c9705f-b4dd-4cde-acf1-e59ddfd28708",
+          "name": "⚡️客观叙事",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "72955766-e713-45c5-a547-f455e4386503",
+          "name": "⚡️转述",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "1bb710b2-f2c0-4db5-9ed6-86b8c2415d39",
+          "name": "⚡️防转述",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "565a5748-7915-4b55-b6d8-88fefc1edfb4",
+          "name": "⚡️防神化（能用了）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "8de9dbe3-65c1-44b8-b7ec-9b824acd6c45",
+          "name": "⚡️防绝望",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "9b813425-a2f0-4a32-8b83-12b5c397aeac",
+          "name": "⚡️抢话",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "fb2ddefb-419d-412e-a46f-f20cce7affdd",
+          "name": "⚡️防抢话",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "9740a77b-df5d-4db2-a737-d80b40008dd5",
+          "name": "😭防小此乱入",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "6c573ecd-9d93-4086-9ca3-83d7478b3538",
+          "name": "⚠️难度：你是神",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "5326ef8c-5cf8-452a-9533-c003ea5a54d9",
+          "name": "⚠️难度：你是普通人",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "dcf3654b-6fae-4f29-ab9b-0c7c850fe4b2",
+          "name": "⚠️难度：你被一脚踢死",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "69f7f462-5c8a-4c29-ac34-6a1fc0069cd4",
+          "name": "🎭不只看user",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "964957d3-f3e0-40a7-b043-ce447793b08d",
+          "name": "⛔️不许狂暴色色",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "1988030f-b190-4045-9a75-7191a4a32cbc",
+          "name": "⛔️防揣测加强",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "84cdfc0c-2880-47af-b9dd-43f631e1eb42",
+          "name": "⛔️不许语气描写",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "a8585c8d-9b58-42fc-adf0-29990da4cf43",
+          "name": "⛔️防过度描写",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "17b02d6d-1b34-4b89-8328-d52e77cbad0a",
+          "name": "👤对白量：少",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "fed9a6e6-1e90-4460-99ca-4b503bbc54a8",
+          "name": "👤对白量：中",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "fed9de72-f3be-405c-821d-1de25abf2a20",
+          "name": "👤对白量：多",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "60a5070d-596f-435a-bfc3-e7a7244ff766",
+          "name": "👤对白量：100%",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "da761342-71de-4576-ba36-dbf2859ab457",
+          "name": "♀️女性向适配开关",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e634eca7-aa93-49fb-a825-e8f9607c353c",
+          "name": "😨千万别点开",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "3da12c28-70ee-4ef8-b01b-0e56987ca214",
+          "name": "💡可选功能结束",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "2d658683-d6f6-4c9f-a28c-bc2498cd2a43",
+          "name": "创意加强1（会发癫）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "aaa05b4c-8335-46b2-a9c8-bd020be520bc",
+          "name": "🔴指南（可改）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "c506bbc0-b84b-420e-aab2-4e936aecb11f",
+          "name": "创意加强2（癫）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "652f7f64-72ef-4041-a1c6-19d783fe1560",
+          "name": "🧐用户画像（点进去看）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "c49b9c31-1302-42da-908c-746d39565779",
+          "name": "😍NSFW指导-黑森森",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "ecdae20d-32c8-4136-a320-5e3193b78ce4",
+          "name": "😍二选一开-NSFW指南-582",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "39c7a119-c95c-4bb7-b2f6-df9e2b2b6c58",
+          "name": "👤人称-第三人称",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "82da9596-b36b-47cc-9f77-d91c7fff1919",
+          "name": "👤人称-第二人称",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "1ca7612a-89ec-406e-b1c4-eea8b72f7d23",
+          "name": "👤人称-User第一人称",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "d866c39a-23da-4296-86bf-d4b1eef8e350",
+          "name": "👤人称-Char第一人称",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "70c9db5a-4009-4b07-a402-7f0820b52552",
+          "name": "🔴NSFW加强",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "5c52a3fa-589f-456d-994f-674492f2bf66",
+          "name": "🔵NSFW加强（温柔）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "a901d88f-484c-4448-988a-b60ab0414f32",
+          "name": "💕开启心理描写",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "282ebffa-00fe-439e-b85a-e439c8aa9dac",
+          "name": "🎁可写NSFW↓",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "66c158f7-825b-448f-847a-54985c8b4a37",
+          "name": "广播剧nsfw配件",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "3b0c43e2-d67c-4099-9547-b33e862b4167",
+          "name": "禁词表NSFW配件",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "6e2dd902-061b-4675-93cb-9dbb7bacf628",
+          "name": "实验禁词表",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "5d96ae22-2065-4064-bc82-8873b8084527",
+          "name": "🔵概念锚定",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "601ff222-8ff1-42ff-99df-59846da0ca1b",
+          "name": "🔵性格标签（有适配再开）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "141ddc56-5cc3-49de-a577-72690dc98c6c",
+          "name": "防媚user",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "enhanceDefinitions",
+          "name": "🤔同人增强-二选一",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "49e1b038-0f55-46a7-a9f0-11de7d3915ab",
+          "name": "🤔事实增强-二选一",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "7f60f2a8-9e88-42e0-8c68-e908eb0365b8",
+          "name": "👤扩写输入",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e9468d2e-5b16-42fd-b94c-66226a9495f9",
+          "name": "⚡️双语对话",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "c432e2eb-dd53-4bf5-af37-bf2eaf347639",
+          "name": "🌻前端生成-NyPigment",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e7436c11-8691-49c0-987d-39d8109f92c0",
+          "name": "🔴创作思路",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "50d1bf16-4be6-4f7b-bf05-2b34201e0b13",
+          "name": "🔴吐槽",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e3e9ec2d-3392-44be-8920-ca328ea17fc2",
+          "name": "🔵小此对话",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "f89b61d1-f8a6-4937-a39c-deb10d6a9082",
+          "name": "🥰情感陪伴",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "d54153e7-6c66-409e-8a47-dc71a3b96848",
+          "name": "✅MVU Zod兼容",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "d8e4b241-be25-4009-9b37-f5a90a4c7427",
+          "name": "🤖自定义（字数）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "6f9e72dd-0b7f-4a7c-88dd-09c7d19d31be",
+          "name": "🦕正文中文加强（出外语开）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "652c3727-4b66-4649-be91-c3e7eb9dd238",
+          "name": "🤓高上下文选开",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "22ef61a4-518c-42b0-8ca5-6398b8d82fe7",
+          "name": "😇小巧思",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "f89851e8-ed86-45ec-b88f-a43e6fb892a4",
+          "name": "思维链-注重人设",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "c925621e-88b9-4a8a-b320-b3f422e3b18f",
+          "name": "思维链-注重流畅性",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "0ff6b6eb-ac28-4f51-aea6-e73cdca65f9c",
+          "name": "思维链-注重剧情",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "2cb10336-0e76-49d1-a79e-60bb858dd619",
+          "name": "思维链-均衡",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "c8bef432-74f8-4886-82b1-397be150a2fe",
+          "name": "思维链-简洁",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e73c6a65-6bb1-4c8a-a858-a379225d2d27",
+          "name": "思维链-哥杀卡专用",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "f6abbddd-d40c-433d-8bd6-553334bb29a7",
+          "name": "思维链-自定义",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "c2639d1e-011e-4868-bda0-c176fa50e9d4",
+          "name": "😡防叛逆",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "8a08e6c8-9945-4059-9d30-bea584599c01",
+          "name": "😍涩涩加速",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "840bad86-b178-4737-8a13-aecde34570b7",
+          "name": "🔴防重复上文",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "f98ca256-c2e8-4498-a0e8-880ccc500a6f",
+          "name": "增强输入（不读再开）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "a9f9bf6a-b516-444b-980f-7ce3610f7d1e",
+          "name": "不用开",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "589303f4-d5f1-4f14-ab7c-301b5c1aa498",
+          "name": "破甲1-Claude",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "391e8ad3-cb9f-4437-bf40-c980a2539d94",
+          "name": "😤破甲1",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "56f6b2bb-2380-4ca4-b582-ce5ad6e9c7cd",
+          "name": "😤破甲2",
+          "sameNameIndex": 0,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "id": "d670feda-051c-44d1-9507-346324395f06",
+      "name": "抢话推剧情",
+      "layer": "function",
+      "section": "",
+      "strict": true,
+      "savedAt": "2026-09-04T11:54:25.110Z",
+      "entries": [
+        {
+          "id": "be3ad8bd-8f1f-49d5-be9e-97970864cdac",
+          "name": "💡可选功能开始",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "adbe0f3a-e6a6-4522-b274-81a02be7fecf",
+          "name": "防429",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "520e0405-8a69-4e68-af98-2174d075f516",
+          "name": "⚡️字数加强",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "d19e0a4e-fd7e-4fa4-ba1c-b09073850954",
+          "name": "☑️防转折",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "313b9a8f-dceb-47b6-ac53-a157004e4526",
+          "name": "✅允许转折",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "f987cf08-a24e-4c8c-9f1e-edd7cfb66301",
+          "name": "✅反直觉",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "d563f93f-a5de-460e-bed6-23cf1bea750d",
+          "name": "✅剧情彻底疯狂",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e60a715a-92ab-4ea9-8753-ea8f6164ffc9",
+          "name": "⚡️防发情（nsfw卡才开）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "28e313c7-b1e2-403d-86e0-d3c9c473216d",
+          "name": "⚡️防不发情",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "9dcf25c4-e94a-4c25-b59d-4d70d792915d",
+          "name": "⚡️防情绪化、油腻",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "fd76a6ba-8927-4cdb-9b43-f1743c806147",
+          "name": "⚡️慢推剧情",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "869bf19b-7764-4c01-8370-155f62ea5be4",
+          "name": "⚡️推剧情",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "37c9705f-b4dd-4cde-acf1-e59ddfd28708",
+          "name": "⚡️客观叙事",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "72955766-e713-45c5-a547-f455e4386503",
+          "name": "⚡️转述",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "1bb710b2-f2c0-4db5-9ed6-86b8c2415d39",
+          "name": "⚡️防转述",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "565a5748-7915-4b55-b6d8-88fefc1edfb4",
+          "name": "⚡️防神化（能用了）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "8de9dbe3-65c1-44b8-b7ec-9b824acd6c45",
+          "name": "⚡️防绝望",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "9b813425-a2f0-4a32-8b83-12b5c397aeac",
+          "name": "⚡️抢话",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "fb2ddefb-419d-412e-a46f-f20cce7affdd",
+          "name": "⚡️防抢话",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "9740a77b-df5d-4db2-a737-d80b40008dd5",
+          "name": "😭防小此乱入",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "6c573ecd-9d93-4086-9ca3-83d7478b3538",
+          "name": "⚠️难度：你是神",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "5326ef8c-5cf8-452a-9533-c003ea5a54d9",
+          "name": "⚠️难度：你是普通人",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "dcf3654b-6fae-4f29-ab9b-0c7c850fe4b2",
+          "name": "⚠️难度：你被一脚踢死",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "69f7f462-5c8a-4c29-ac34-6a1fc0069cd4",
+          "name": "🎭不只看user",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "964957d3-f3e0-40a7-b043-ce447793b08d",
+          "name": "⛔️不许狂暴色色",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "1988030f-b190-4045-9a75-7191a4a32cbc",
+          "name": "⛔️防揣测加强",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "84cdfc0c-2880-47af-b9dd-43f631e1eb42",
+          "name": "⛔️不许语气描写",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "a8585c8d-9b58-42fc-adf0-29990da4cf43",
+          "name": "⛔️防过度描写",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "17b02d6d-1b34-4b89-8328-d52e77cbad0a",
+          "name": "👤对白量：少",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "fed9a6e6-1e90-4460-99ca-4b503bbc54a8",
+          "name": "👤对白量：中",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "fed9de72-f3be-405c-821d-1de25abf2a20",
+          "name": "👤对白量：多",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "60a5070d-596f-435a-bfc3-e7a7244ff766",
+          "name": "👤对白量：100%",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "da761342-71de-4576-ba36-dbf2859ab457",
+          "name": "♀️女性向适配开关",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e634eca7-aa93-49fb-a825-e8f9607c353c",
+          "name": "😨千万别点开",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "3da12c28-70ee-4ef8-b01b-0e56987ca214",
+          "name": "💡可选功能结束",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "2d658683-d6f6-4c9f-a28c-bc2498cd2a43",
+          "name": "创意加强1（会发癫）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "aaa05b4c-8335-46b2-a9c8-bd020be520bc",
+          "name": "🔴指南（可改）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "c506bbc0-b84b-420e-aab2-4e936aecb11f",
+          "name": "创意加强2（癫）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "652f7f64-72ef-4041-a1c6-19d783fe1560",
+          "name": "🧐用户画像（点进去看）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "c49b9c31-1302-42da-908c-746d39565779",
+          "name": "😍NSFW指导-黑森森",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "ecdae20d-32c8-4136-a320-5e3193b78ce4",
+          "name": "😍二选一开-NSFW指南-582",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "39c7a119-c95c-4bb7-b2f6-df9e2b2b6c58",
+          "name": "👤人称-第三人称",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "82da9596-b36b-47cc-9f77-d91c7fff1919",
+          "name": "👤人称-第二人称",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "1ca7612a-89ec-406e-b1c4-eea8b72f7d23",
+          "name": "👤人称-User第一人称",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "d866c39a-23da-4296-86bf-d4b1eef8e350",
+          "name": "👤人称-Char第一人称",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "70c9db5a-4009-4b07-a402-7f0820b52552",
+          "name": "🔴NSFW加强",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "5c52a3fa-589f-456d-994f-674492f2bf66",
+          "name": "🔵NSFW加强（温柔）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "a901d88f-484c-4448-988a-b60ab0414f32",
+          "name": "💕开启心理描写",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "282ebffa-00fe-439e-b85a-e439c8aa9dac",
+          "name": "🎁可写NSFW↓",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "66c158f7-825b-448f-847a-54985c8b4a37",
+          "name": "广播剧nsfw配件",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "3b0c43e2-d67c-4099-9547-b33e862b4167",
+          "name": "禁词表NSFW配件",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "6e2dd902-061b-4675-93cb-9dbb7bacf628",
+          "name": "实验禁词表",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "5d96ae22-2065-4064-bc82-8873b8084527",
+          "name": "🔵概念锚定",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "601ff222-8ff1-42ff-99df-59846da0ca1b",
+          "name": "🔵性格标签（有适配再开）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "141ddc56-5cc3-49de-a577-72690dc98c6c",
+          "name": "防媚user",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "enhanceDefinitions",
+          "name": "🤔同人增强-二选一",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "49e1b038-0f55-46a7-a9f0-11de7d3915ab",
+          "name": "🤔事实增强-二选一",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "7f60f2a8-9e88-42e0-8c68-e908eb0365b8",
+          "name": "👤扩写输入",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "e9468d2e-5b16-42fd-b94c-66226a9495f9",
+          "name": "⚡️双语对话",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "c432e2eb-dd53-4bf5-af37-bf2eaf347639",
+          "name": "🌻前端生成-NyPigment",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e7436c11-8691-49c0-987d-39d8109f92c0",
+          "name": "🔴创作思路",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "50d1bf16-4be6-4f7b-bf05-2b34201e0b13",
+          "name": "🔴吐槽",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e3e9ec2d-3392-44be-8920-ca328ea17fc2",
+          "name": "🔵小此对话",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "f89b61d1-f8a6-4937-a39c-deb10d6a9082",
+          "name": "🥰情感陪伴",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "d54153e7-6c66-409e-8a47-dc71a3b96848",
+          "name": "✅MVU Zod兼容",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "d8e4b241-be25-4009-9b37-f5a90a4c7427",
+          "name": "🤖自定义（字数）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "6f9e72dd-0b7f-4a7c-88dd-09c7d19d31be",
+          "name": "🦕正文中文加强（出外语开）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "652c3727-4b66-4649-be91-c3e7eb9dd238",
+          "name": "🤓高上下文选开",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "22ef61a4-518c-42b0-8ca5-6398b8d82fe7",
+          "name": "😇小巧思",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "f89851e8-ed86-45ec-b88f-a43e6fb892a4",
+          "name": "思维链-注重人设",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "c925621e-88b9-4a8a-b320-b3f422e3b18f",
+          "name": "思维链-注重流畅性",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "0ff6b6eb-ac28-4f51-aea6-e73cdca65f9c",
+          "name": "思维链-注重剧情",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "2cb10336-0e76-49d1-a79e-60bb858dd619",
+          "name": "思维链-均衡",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "c8bef432-74f8-4886-82b1-397be150a2fe",
+          "name": "思维链-简洁",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e73c6a65-6bb1-4c8a-a858-a379225d2d27",
+          "name": "思维链-哥杀卡专用",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "f6abbddd-d40c-433d-8bd6-553334bb29a7",
+          "name": "思维链-自定义",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "c2639d1e-011e-4868-bda0-c176fa50e9d4",
+          "name": "😡防叛逆",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "8a08e6c8-9945-4059-9d30-bea584599c01",
+          "name": "😍涩涩加速",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "840bad86-b178-4737-8a13-aecde34570b7",
+          "name": "🔴防重复上文",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "f98ca256-c2e8-4498-a0e8-880ccc500a6f",
+          "name": "增强输入（不读再开）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "a9f9bf6a-b516-444b-980f-7ce3610f7d1e",
+          "name": "不用开",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "589303f4-d5f1-4f14-ab7c-301b5c1aa498",
+          "name": "破甲1-Claude",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "391e8ad3-cb9f-4437-bf40-c980a2539d94",
+          "name": "😤破甲1",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "56f6b2bb-2380-4ca4-b582-ce5ad6e9c7cd",
+          "name": "😤破甲2",
+          "sameNameIndex": 0,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "id": "666239d4-b4e8-481a-8842-6cbf716c407c",
+      "name": "基米flash适配",
+      "layer": "structure",
+      "section": "",
+      "strict": true,
+      "savedAt": "2026-09-03T21:48:11.464Z",
+      "entries": [
+        {
+          "id": "8b4c6b33-5301-436c-85e0-bf9fcc00e52c",
+          "name": "📋说明（点小铅笔看）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "c4eccf53-780a-4e13-85da-cc9a0dd6e2d2",
+          "name": "哦对了，贩子死妈",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "27a96df0-df6b-44ea-8bca-76881bf766be",
+          "name": "初始化变量（别动）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "413edc45-8069-425d-afa6-bd1c79eaa8e2",
+          "name": "⭕️Claude适配开关",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "7150f172-c75f-4342-8f1a-abe4d628a7c5",
+          "name": "🐱基米flash适配",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "main",
+          "name": "💾主提示",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "ffa1f75e-9cfd-4c99-892a-ffe0b27f5945",
+          "name": "接",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "98118304-b17c-4eba-b768-691647afa1f3",
+          "name": "别动",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "3c720ed1-44f6-4678-a87e-ffb9eb3ca2ad",
+          "name": "角色",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "c9553c58-5dad-4e65-b851-aa61c7d7a02b",
+          "name": "小说模式user",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "c366d63e-b2f6-4eb7-bd55-dbeccf9e4e5e",
+          "name": "user",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "personaDescription",
+          "name": "用户设定描述",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "401731e7-adca-4f83-aa88-6a6b1f4f7884",
+          "name": "/user",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "charDescription",
+          "name": "角色描述",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "worldInfoBefore",
+          "name": "角色定义之前",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "charPersonality",
+          "name": "角色性格",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "scenario",
+          "name": "场景",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "worldInfoAfter",
+          "name": "角色定义之后",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "dialogueExamples",
+          "name": "Chat Examples",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "900a2de1-46a3-47df-b115-20ae3ce9e069",
+          "name": "/角色",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "chatHistory",
+          "name": "Chat History",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "nsfw",
+          "name": "信息结束",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "e8d8ed8b-99f5-465e-91ba-895ff28322b5",
+          "name": "⏩选项栏",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "dad86601-1688-471b-96d9-e252d1624bbb",
+          "name": "⚡️平行事件（和摘要冲突）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "36447ec1-6d6c-4743-8df2-81f21c501e8c",
+          "name": "弹幕小剧场（GAL）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "16575706-d1c3-4892-b0b5-1127fc48118a",
+          "name": "kemini防截断(强)",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "14a045df-4cfa-4680-b1f8-32d1cec4104b",
+          "name": "超长防截断（k,mygo）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e78419f1-a590-4042-84b2-6a90c08fd64d",
+          "name": "玄学破甲",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "d6d69788-6791-4813-98db-6286e43858a3",
+          "name": "☀️自定义缝合处",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "40688491-b413-46a6-aeb4-090107523203",
+          "name": "🏷摘要-Ny",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "060464e2-cc75-4984-82c6-6dc1702db61a",
+          "name": "🏷新摘要",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "432d55e9-1550-4757-b029-f9af023165f7",
+          "name": "格式要求结束",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "6f283554-e07c-433d-bbf2-45fc9bb8d9a9",
+          "name": "🔵吐槽版格式示例",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "2967434d-1be0-4cd4-9b2c-5adeca9be28d",
+          "name": "🔴其它格式示例",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "f24a7fbd-aeac-43d7-9adc-a81a7204584c",
+          "name": "🥚克劳德格式示例",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "b5af801f-31c2-4c34-83db-58a3a0bba702",
+          "name": "⭐️思维链语言-中文",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "a48bde7b-49d4-4168-91b8-c890d2f3d766",
+          "name": "⭐️思维链语言-法语",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "6e85e89f-d57f-443a-9ecf-d44fdba64d7d",
+          "name": "⭐️思维链语言-日语",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "4ab2b71b-120b-4f1f-9dce-3fbb0126cfc0",
+          "name": "⭐️思维链语言-俄语",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "de44df76-9e1d-4f3c-a580-164410be895b",
+          "name": "⭐️思维链语言-德语",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "7eea867c-ef6f-4714-aa92-968501fc3f55",
+          "name": "⭐️思维链语言-西班牙语",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "ec2a3740-fd81-4f36-b47f-0b36b01530ce",
+          "name": "⭐️思维链语言-意大利语",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "b63e000e-8f39-478e-bcfc-60f8b9a154a3",
+          "name": "大总结-关破甲（K）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "0297c9a4-d95e-4679-ac26-ccc09c6ba276",
+          "name": "新摘要大总结-关破甲",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "7a1f54a8-0391-45f2-ab6e-80730914a039",
+          "name": "卡思维链（K）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "f11f2246-7c67-4913-9ab6-21c96b6a86f0",
+          "name": "非预填充尾部",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "55fd17b5-5be5-47b9-98f2-fb09a96a165e",
+          "name": "基米flash尾部",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "11fa2de5-243d-4861-a942-55f67fc522a4",
+          "name": "破甲加强基米flash尾部",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "64f1335c-52cd-4d6c-93d1-77cc99b0c76c",
+          "name": "快速思维链",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "d192c080-d5a7-43f4-bd56-ddc30ec6b282",
+          "name": "不要思维链了",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "1ce33611-315d-4f87-9284-7406578d1eff",
+          "name": "拷打模式",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e8042edc-29f5-4921-8f59-a931e72430ab",
+          "name": "聊天模式1",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "97fcdcd6-bc97-41ad-8ecd-f33266953bcd",
+          "name": "头脑风暴",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "jailbreak",
+          "name": "短对话模式",
+          "sameNameIndex": 0,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "id": "10e10868-948b-42e0-8e5d-9eaa2f420820",
+      "name": "克劳德适配",
+      "layer": "structure",
+      "section": "",
+      "strict": true,
+      "savedAt": "2026-08-27T06:39:31.685Z",
+      "entries": [
+        {
+          "id": "8b4c6b33-5301-436c-85e0-bf9fcc00e52c",
+          "name": "📋说明（点小铅笔看）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "c4eccf53-780a-4e13-85da-cc9a0dd6e2d2",
+          "name": "哦对了，贩子死妈",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "27a96df0-df6b-44ea-8bca-76881bf766be",
+          "name": "初始化变量（别动）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "413edc45-8069-425d-afa6-bd1c79eaa8e2",
+          "name": "⭕️Claude适配开关",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "7150f172-c75f-4342-8f1a-abe4d628a7c5",
+          "name": "🐱基米flash适配",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "main",
+          "name": "💾主提示",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "ffa1f75e-9cfd-4c99-892a-ffe0b27f5945",
+          "name": "接",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "98118304-b17c-4eba-b768-691647afa1f3",
+          "name": "别动",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "3c720ed1-44f6-4678-a87e-ffb9eb3ca2ad",
+          "name": "角色",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "c9553c58-5dad-4e65-b851-aa61c7d7a02b",
+          "name": "小说模式user",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "c366d63e-b2f6-4eb7-bd55-dbeccf9e4e5e",
+          "name": "user",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "personaDescription",
+          "name": "用户设定描述",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "401731e7-adca-4f83-aa88-6a6b1f4f7884",
+          "name": "/user",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "charDescription",
+          "name": "角色描述",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "worldInfoBefore",
+          "name": "角色定义之前",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "charPersonality",
+          "name": "角色性格",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "scenario",
+          "name": "场景",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "worldInfoAfter",
+          "name": "角色定义之后",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "dialogueExamples",
+          "name": "Chat Examples",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "900a2de1-46a3-47df-b115-20ae3ce9e069",
+          "name": "/角色",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "chatHistory",
+          "name": "Chat History",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "nsfw",
+          "name": "信息结束",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "e8d8ed8b-99f5-465e-91ba-895ff28322b5",
+          "name": "⏩选项栏",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "dad86601-1688-471b-96d9-e252d1624bbb",
+          "name": "⚡️平行事件（和摘要冲突）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "36447ec1-6d6c-4743-8df2-81f21c501e8c",
+          "name": "弹幕小剧场（GAL）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "16575706-d1c3-4892-b0b5-1127fc48118a",
+          "name": "kemini防截断(强)",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "14a045df-4cfa-4680-b1f8-32d1cec4104b",
+          "name": "超长防截断（k,mygo）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "d6d69788-6791-4813-98db-6286e43858a3",
+          "name": "☀️自定义缝合处",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "40688491-b413-46a6-aeb4-090107523203",
+          "name": "🏷摘要-Ny",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "060464e2-cc75-4984-82c6-6dc1702db61a",
+          "name": "🏷新摘要",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "432d55e9-1550-4757-b029-f9af023165f7",
+          "name": "格式要求结束",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "6f283554-e07c-433d-bbf2-45fc9bb8d9a9",
+          "name": "🔵吐槽版格式示例",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "2967434d-1be0-4cd4-9b2c-5adeca9be28d",
+          "name": "🔴其它格式示例",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "f24a7fbd-aeac-43d7-9adc-a81a7204584c",
+          "name": "🥚克劳德格式示例",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "b5af801f-31c2-4c34-83db-58a3a0bba702",
+          "name": "⭐️思维链语言-中文",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "a48bde7b-49d4-4168-91b8-c890d2f3d766",
+          "name": "⭐️思维链语言-法语",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "6e85e89f-d57f-443a-9ecf-d44fdba64d7d",
+          "name": "⭐️思维链语言-日语",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "4ab2b71b-120b-4f1f-9dce-3fbb0126cfc0",
+          "name": "⭐️思维链语言-俄语",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "de44df76-9e1d-4f3c-a580-164410be895b",
+          "name": "⭐️思维链语言-德语",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "7eea867c-ef6f-4714-aa92-968501fc3f55",
+          "name": "⭐️思维链语言-西班牙语",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "ec2a3740-fd81-4f36-b47f-0b36b01530ce",
+          "name": "⭐️思维链语言-意大利语",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "b63e000e-8f39-478e-bcfc-60f8b9a154a3",
+          "name": "大总结-关破甲（K）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "0297c9a4-d95e-4679-ac26-ccc09c6ba276",
+          "name": "新摘要大总结-关破甲",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "7a1f54a8-0391-45f2-ab6e-80730914a039",
+          "name": "卡思维链（K）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "f11f2246-7c67-4913-9ab6-21c96b6a86f0",
+          "name": "非预填充尾部",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "11fa2de5-243d-4861-a942-55f67fc522a4",
+          "name": "基米flash尾部",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "64f1335c-52cd-4d6c-93d1-77cc99b0c76c",
+          "name": "快速思维链",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "d192c080-d5a7-43f4-bd56-ddc30ec6b282",
+          "name": "不要思维链了",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "1ce33611-315d-4f87-9284-7406578d1eff",
+          "name": "拷打模式",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e8042edc-29f5-4921-8f59-a931e72430ab",
+          "name": "聊天模式1",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "97fcdcd6-bc97-41ad-8ecd-f33266953bcd",
+          "name": "头脑风暴",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "jailbreak",
+          "name": "短对话模式",
+          "sameNameIndex": 0,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "id": "9d431432-4020-479c-b839-eee383d17839",
+      "name": "基米3.1p适配",
+      "layer": "structure",
+      "section": "",
+      "strict": true,
+      "savedAt": "2026-08-27T06:37:40.044Z",
+      "entries": [
+        {
+          "id": "8b4c6b33-5301-436c-85e0-bf9fcc00e52c",
+          "name": "📋说明（点小铅笔看）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "c4eccf53-780a-4e13-85da-cc9a0dd6e2d2",
+          "name": "哦对了，贩子死妈",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "27a96df0-df6b-44ea-8bca-76881bf766be",
+          "name": "初始化变量（别动）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "7150f172-c75f-4342-8f1a-abe4d628a7c5",
+          "name": "🐱基米flash适配",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "main",
+          "name": "💾主提示",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "ffa1f75e-9cfd-4c99-892a-ffe0b27f5945",
+          "name": "接",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "98118304-b17c-4eba-b768-691647afa1f3",
+          "name": "别动",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "3c720ed1-44f6-4678-a87e-ffb9eb3ca2ad",
+          "name": "角色",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "c9553c58-5dad-4e65-b851-aa61c7d7a02b",
+          "name": "小说模式user",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "c366d63e-b2f6-4eb7-bd55-dbeccf9e4e5e",
+          "name": "user",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "personaDescription",
+          "name": "用户设定描述",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "401731e7-adca-4f83-aa88-6a6b1f4f7884",
+          "name": "/user",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "charDescription",
+          "name": "角色描述",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "worldInfoBefore",
+          "name": "角色定义之前",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "charPersonality",
+          "name": "角色性格",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "scenario",
+          "name": "场景",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "worldInfoAfter",
+          "name": "角色定义之后",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "dialogueExamples",
+          "name": "Chat Examples",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "900a2de1-46a3-47df-b115-20ae3ce9e069",
+          "name": "/角色",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "chatHistory",
+          "name": "Chat History",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "nsfw",
+          "name": "信息结束",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "e8d8ed8b-99f5-465e-91ba-895ff28322b5",
+          "name": "⏩选项栏",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "dad86601-1688-471b-96d9-e252d1624bbb",
+          "name": "⚡️平行事件（和摘要冲突）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "36447ec1-6d6c-4743-8df2-81f21c501e8c",
+          "name": "弹幕小剧场（GAL）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "16575706-d1c3-4892-b0b5-1127fc48118a",
+          "name": "kemini防截断(强)",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "14a045df-4cfa-4680-b1f8-32d1cec4104b",
+          "name": "超长防截断（k,mygo）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "d6d69788-6791-4813-98db-6286e43858a3",
+          "name": "☀️自定义缝合处",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "40688491-b413-46a6-aeb4-090107523203",
+          "name": "🏷摘要-Ny",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "060464e2-cc75-4984-82c6-6dc1702db61a",
+          "name": "🏷新摘要",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "432d55e9-1550-4757-b029-f9af023165f7",
+          "name": "格式要求结束",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "6f283554-e07c-433d-bbf2-45fc9bb8d9a9",
+          "name": "🔵吐槽版格式示例",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "2967434d-1be0-4cd4-9b2c-5adeca9be28d",
+          "name": "🔴其它格式示例",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "f24a7fbd-aeac-43d7-9adc-a81a7204584c",
+          "name": "🥚克劳德格式示例",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "b5af801f-31c2-4c34-83db-58a3a0bba702",
+          "name": "⭐️思维链语言-中文",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "a48bde7b-49d4-4168-91b8-c890d2f3d766",
+          "name": "⭐️思维链语言-法语",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "6e85e89f-d57f-443a-9ecf-d44fdba64d7d",
+          "name": "⭐️思维链语言-日语",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "4ab2b71b-120b-4f1f-9dce-3fbb0126cfc0",
+          "name": "⭐️思维链语言-俄语",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "de44df76-9e1d-4f3c-a580-164410be895b",
+          "name": "⭐️思维链语言-德语",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "7eea867c-ef6f-4714-aa92-968501fc3f55",
+          "name": "⭐️思维链语言-西班牙语",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "ec2a3740-fd81-4f36-b47f-0b36b01530ce",
+          "name": "⭐️思维链语言-意大利语",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "b63e000e-8f39-478e-bcfc-60f8b9a154a3",
+          "name": "大总结-关破甲（K）",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "0297c9a4-d95e-4679-ac26-ccc09c6ba276",
+          "name": "新摘要大总结-关破甲",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "7a1f54a8-0391-45f2-ab6e-80730914a039",
+          "name": "卡思维链（K）",
+          "sameNameIndex": 0,
+          "enabled": true
+        },
+        {
+          "id": "f11f2246-7c67-4913-9ab6-21c96b6a86f0",
+          "name": "非预填充尾部",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "11fa2de5-243d-4861-a942-55f67fc522a4",
+          "name": "基米flash尾部",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "64f1335c-52cd-4d6c-93d1-77cc99b0c76c",
+          "name": "快速思维链",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "d192c080-d5a7-43f4-bd56-ddc30ec6b282",
+          "name": "不要思维链了",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "1ce33611-315d-4f87-9284-7406578d1eff",
+          "name": "拷打模式",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "e8042edc-29f5-4921-8f59-a931e72430ab",
+          "name": "聊天模式1",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "97fcdcd6-bc97-41ad-8ecd-f33266953bcd",
+          "name": "头脑风暴",
+          "sameNameIndex": 0,
+          "enabled": false
+        },
+        {
+          "id": "jailbreak",
+          "name": "短对话模式",
+          "sameNameIndex": 0,
+          "enabled": false
+        }
+      ]
+    }
+  ],
+  "active": {
+    "structure": "68900c70-b85a-4beb-9dfc-ae8ae02c64a9",
+    "function": "d670feda-051c-44d1-9507-346324395f06",
+    "style": ""
+  },
+  "quickSlots": []
+}
